@@ -1,0 +1,931 @@
+id,gender,name,birth_date,birth_place,award_year,portion,prize_amount,category,university,university_country,age_at_award,prize_amount_actual
+293,male,Emil von Behring,1854,Poland,1901,1,8722510,Physiology or Medicine,Marburg University,Germany,47,8722510.0
+463,male,Frédéric Passy,1822,France,1901,2,8722510,Peace,,,79,4361255.0
+462,male,Henry Dunant,1828,Switzerland,1901,2,8722510,Peace,,,73,4361255.0
+160,male,Jacobus H. van 't Hoff,1852,the Netherlands,1901,1,8722510,Chemistry,Berlin University,Germany,49,8722510.0
+569,male,Sully Prudhomme,1839,France,1901,1,8722510,Literature,,,62,8722510.0
+1,male,Wilhelm Conrad Röntgen,1845,Germany,1901,1,8722510,Physics,Munich University,Germany,56,8722510.0
+465,male,Albert Gobat,1843,Switzerland,1902,2,8205634,Peace,,,59,4102817.0
+464,male,Élie Ducommun,1833,Switzerland,1902,2,8205634,Peace,,,69,4102817.0
+161,male,Emil Fischer,1852,Germany,1902,1,8205634,Chemistry,Berlin University,Germany,50,8205634.0
+2,male,Hendrik A. Lorentz,1853,the Netherlands,1902,2,8205634,Physics,Leiden University,the Netherlands,49,4102817.0
+3,male,Pieter Zeeman,1865,the Netherlands,1902,2,8205634,Physics,Amsterdam University,the Netherlands,37,4102817.0
+294,male,Ronald Ross,1857,India,1902,1,8205634,Physiology or Medicine,University College,United Kingdom,45,8205634.0
+571,male,Theodor Mommsen,1817,Germany,1902,1,8205634,Literature,,,85,8205634.0
+572,male,Bjørnstjerne Bjørnson,1832,Norway,1903,1,7936836,Literature,,,71,7936836.0
+4,male,Henri Becquerel,1852,France,1903,2,7936836,Physics,École Polytechnique,France,51,3968418.0
+6,female,Marie Curie,1867,Poland,1903,4,7936836,Physics,,,36,1984209.0
+295,male,Niels Ryberg Finsen,1860,Faroe Islands (Denmark),1903,1,7936836,Physiology or Medicine,Finsen Medical Light Institute,Denmark,43,7936836.0
+5,male,Pierre Curie,1859,France,1903,4,7936836,Physics,École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),France,44,1984209.0
+466,male,Randal Cremer,1828,United Kingdom,1903,1,7936836,Peace,,,75,7936836.0
+162,male,Svante Arrhenius,1859,Sweden,1903,1,7936836,Chemistry,Stockholm University,Sweden,44,7936836.0
+573,male,Frédéric Mistral,1830,France,1904,2,7908819,Literature,,,74,3954409.5
+296,male,Ivan Pavlov,1849,Russia,1904,1,7908819,Physiology or Medicine,Military Medical Academy,Russia,55,7908819.0
+574,male,José Echegaray,1832,Spain,1904,2,7908819,Literature,,,72,3954409.5
+8,male,Lord Rayleigh,1842,United Kingdom,1904,1,7908819,Physics,Royal Institution of Great Britain,United Kingdom,62,7908819.0
+163,male,Sir William Ramsay,1852,Scotland,1904,1,7908819,Chemistry,University College,United Kingdom,52,7908819.0
+164,male,Adolf von Baeyer,1835,Germany,1905,1,7753291,Chemistry,Munich University,Germany,70,7753291.0
+468,female,Bertha von Suttner,1843,Czech Republic,1905,1,7753291,Peace,,,62,7753291.0
+575,male,Henryk Sienkiewicz,1846,Poland,1905,1,7753291,Literature,,,59,7753291.0
+9,male,Philipp Lenard,1862,Slovakia,1905,1,7753291,Physics,Kiel University,Germany,43,7753291.0
+297,male,Robert Koch,1843,Germany,1905,1,7753291,Physiology or Medicine,Institute for Infectious Diseases,Germany,62,7753291.0
+298,male,Camillo Golgi,1843,Italy,1906,2,7556149,Physiology or Medicine,Pavia University,Italy,63,3778074.5
+576,male,Giosuè Carducci,1835,Italy,1906,1,7556149,Literature,,,71,7556149.0
+165,male,Henri Moissan,1852,France,1906,1,7556149,Chemistry,Sorbonne University,France,54,7556149.0
+10,male,J.J. Thomson,1856,United Kingdom,1906,1,7556149,Physics,University of Cambridge,United Kingdom,50,7556149.0
+299,male,Santiago Ramón y Cajal,1852,Spain,1906,2,7556149,Physiology or Medicine,Madrid University,Spain,54,3778074.5
+470,male,Theodore Roosevelt,1858,USA,1906,1,7556149,Peace,,,48,7556149.0
+11,male,Albert A. Michelson,1852,Poland,1907,1,7161123,Physics,University of Chicago,USA,55,7161123.0
+300,male,Alphonse Laveran,1845,France,1907,1,7161123,Physiology or Medicine,Institut Pasteur,France,62,7161123.0
+166,male,Eduard Buchner,1860,Germany,1907,1,7161123,Chemistry,Landwirtschaftliche Hochschule (Agricultural College),Germany,47,7161123.0
+471,male,Ernesto Teodoro Moneta,1833,Italy,1907,2,7161123,Peace,,,74,3580561.5
+472,male,Louis Renault,1843,France,1907,2,7161123,Peace,Sorbonne University,France,64,3580561.5
+577,male,Rudyard Kipling,1865,India,1907,1,7161123,Literature,,,42,7161123.0
+167,male,Ernest Rutherford,1871,New Zealand,1908,1,7212924,Chemistry,Victoria University,United Kingdom,37,7212924.0
+474,male,Fredrik Bajer,1837,Denmark,1908,2,7212924,Peace,,,71,3606462.0
+12,male,Gabriel Lippmann,1845,Luxembourg,1908,1,7212924,Physics,Sorbonne University,France,63,7212924.0
+301,male,Ilya Mechnikov,1845,Ukraine,1908,2,7212924,Physiology or Medicine,Institut Pasteur,France,63,3606462.0
+473,male,Klas Pontus Arnoldson,1844,Sweden,1908,2,7212924,Peace,,,64,3606462.0
+302,male,Paul Ehrlich,1854,Poland,1908,2,7212924,Physiology or Medicine,Goettingen University,Germany,54,3606462.0
+578,male,Rudolf Eucken,1846,Germany,1908,1,7212924,Literature,,,62,7212924.0
+475,male,Auguste Beernaert,1829,Belgium,1909,2,7212924,Peace,,,80,3606462.0
+14,male,Ferdinand Braun,1850,Germany,1909,2,7212924,Physics,Strasbourg University,France,59,3606462.0
+13,male,Guglielmo Marconi,1874,Italy,1909,2,7212924,Physics,Marconi Wireless Telegraph Co. Ltd.,United Kingdom,35,3606462.0
+476,male,Paul Henri d'Estournelles de Constant,1852,France,1909,2,7212924,Peace,,,57,3606462.0
+579,female,Selma Lagerlöf,1858,Sweden,1909,1,7212924,Literature,,,51,7212924.0
+303,male,Theodor Kocher,1841,Switzerland,1909,1,7212924,Physiology or Medicine,Berne University,Switzerland,68,7212924.0
+168,male,Wilhelm Ostwald,1853,Latvia,1909,1,7212924,Chemistry,Leipzig University,Germany,56,7212924.0
+304,male,Albrecht Kossel,1853,Germany,1910,1,7259514,Physiology or Medicine,University of Heidelberg,Germany,57,7259514.0
+15,male,Johannes Diderik van der Waals,1837,the Netherlands,1910,1,7259514,Physics,Amsterdam University,the Netherlands,73,7259514.0
+169,male,Otto Wallach,1847,Russia,1910,1,7259514,Chemistry,Goettingen University,Germany,63,7259514.0
+580,male,Paul Heyse,1830,Germany,1910,1,7259514,Literature,,,80,7259514.0
+479,male,Alfred Fried,1864,Austria,1911,2,7460743,Peace,,,47,3730371.5
+305,male,Allvar Gullstrand,1862,Sweden,1911,1,7460743,Physiology or Medicine,Uppsala University,Sweden,49,7460743.0
+581,male,Maurice Maeterlinck,1862,Belgium,1911,1,7460743,Literature,,,49,7460743.0
+478,male,Tobias Asser,1838,the Netherlands,1911,2,7460743,Peace,,,73,3730371.5
+16,male,Wilhelm Wien,1864,Russia,1911,1,7460743,Physics,Würzburg University,Germany,47,7460743.0
+306,male,Alexis Carrel,1873,France,1912,1,6876120,Physiology or Medicine,Rockefeller Institute for Medical Research,USA,39,6876120.0
+480,male,Elihu Root,1845,USA,1912,1,6876120,Peace,,,67,6876120.0
+582,male,Gerhart Hauptmann,1862,Poland,1912,1,6876120,Literature,,,50,6876120.0
+17,male,Gustaf Dalén,1869,Sweden,1912,1,6876120,Physics,Swedish Gas-Accumulator Co.,Sweden,43,6876120.0
+173,male,Paul Sabatier,1854,France,1912,2,6876120,Chemistry,Toulouse University,France,58,3438060.0
+172,male,Victor Grignard,1871,France,1912,2,6876120,Chemistry,Nancy University,France,41,3438060.0
+174,male,Alfred Werner,1866,France,1913,1,7000156,Chemistry,University of Zurich,Switzerland,47,7000156.0
+307,male,Charles Richet,1850,France,1913,1,7000156,Physiology or Medicine,Sorbonne University,France,63,7000156.0
+18,male,Heike Kamerlingh Onnes,1853,the Netherlands,1913,1,7000156,Physics,Leiden University,the Netherlands,60,7000156.0
+481,male,Henri La Fontaine,1854,Belgium,1913,1,7000156,Peace,,,59,7000156.0
+583,male,Rabindranath Tagore,1861,India,1913,1,7000156,Literature,,,52,7000156.0
+19,male,Max von Laue,1879,Germany,1914,1,7190567,Physics,Frankfurt-on-the-Main University,Germany,35,7190567.0
+308,male,Robert Bárány,1876,Austria,1914,1,7190567,Physiology or Medicine,Vienna University,Austria,38,7190567.0
+175,male,Theodore W. Richards,1868,USA,1914,1,7190567,Chemistry,Harvard University,USA,46,7190567.0
+21,male,Lawrence Bragg,1890,Australia,1915,2,6330371,Physics,Victoria University,United Kingdom,25,3165185.5
+176,male,Richard Willstätter,1872,Germany,1915,1,6330371,Chemistry,Munich University,Germany,43,6330371.0
+584,male,Romain Rolland,1866,France,1915,1,6330371,Literature,,,49,6330371.0
+20,male,William Bragg,1862,United Kingdom,1915,2,6330371,Physics,University College,United Kingdom,53,3165185.5
+585,male,Verner von Heidenstam,1859,Sweden,1916,1,4933193,Literature,,,57,4933193.0
+22,male,Charles Glover Barkla,1877,United Kingdom,1917,1,3991689,Physics,Edinburgh University,United Kingdom,40,3991689.0
+587,male,Henrik Pontoppidan,1857,Denmark,1917,2,3991689,Literature,,,60,1995844.5
+586,male,Karl Gjellerup,1857,Denmark,1917,2,3991689,Literature,,,60,1995844.5
+177,male,Fritz Haber,1868,Poland,1918,1,2899121,Chemistry,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie,Germany,50,2899121.0
+23,male,Max Planck,1858,Germany,1918,1,2899121,Physics,Berlin University,Germany,60,2899121.0
+588,male,Carl Spitteler,1845,Switzerland,1919,1,2420376,Literature,,,74,2420376.0
+24,male,Johannes Stark,1874,Germany,1919,1,2420376,Physics,Greifswald University,Germany,45,2420376.0
+309,male,Jules Bordet,1870,Belgium,1919,1,2420376,Physiology or Medicine,Brussels University,Belgium,49,2420376.0
+483,male,Woodrow Wilson,1856,USA,1919,1,2420376,Peace,,,63,2420376.0
+310,male,August Krogh,1874,Denmark,1920,1,2438066,Physiology or Medicine,Copenhagen University,Denmark,46,2438066.0
+25,male,Charles Edouard Guillaume,1861,Switzerland,1920,1,2438066,Physics,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),France,59,2438066.0
+589,male,Knut Hamsun,1859,Norway,1920,1,2438066,Literature,,,61,2438066.0
+484,male,Léon Bourgeois,1851,France,1920,1,2438066,Peace,,,69,2438066.0
+178,male,Walther Nernst,1864,Poland,1920,1,2438066,Chemistry,Berlin University,Germany,56,2438066.0
+26,male,Albert Einstein,1879,Germany,1921,1,2578698,Physics,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Germany,42,2578698.0
+590,male,Anatole France,1844,France,1921,1,2578698,Literature,,,77,2578698.0
+486,male,Christian Lange,1869,Norway,1921,2,2578698,Peace,,,52,1289349.0
+179,male,Frederick Soddy,1877,United Kingdom,1921,1,2578698,Chemistry,University of Oxford,United Kingdom,44,2578698.0
+485,male,Hjalmar Branting,1860,Sweden,1921,2,2578698,Peace,,,61,1289349.0
+311,male,Archibald V. Hill,1886,United Kingdom,1922,2,3203014,Physiology or Medicine,London University,United Kingdom,36,1601507.0
+180,male,Francis W. Aston,1877,United Kingdom,1922,1,3203014,Chemistry,University of Cambridge,United Kingdom,45,3203014.0
+487,male,Fridtjof Nansen,1861,Norway,1922,1,3203014,Peace,,,61,3203014.0
+592,male,Jacinto Benavente,1866,Spain,1922,1,3203014,Literature,,,56,3203014.0
+27,male,Niels Bohr,1885,Denmark,1922,1,3203014,Physics,Copenhagen University,Denmark,37,3203014.0
+312,male,Otto Meyerhof,1884,Germany,1922,2,3203014,Physiology or Medicine,Kiel University,Germany,38,1601507.0
+313,male,Frederick G. Banting,1891,Canada,1923,2,3226631,Physiology or Medicine,University of Toronto,Canada,32,1613315.5
+181,male,Fritz Pregl,1869,Slovenia,1923,1,3226631,Chemistry,Graz University,Austria,54,3226631.0
+314,male,John Macleod,1876,Scotland,1923,2,3226631,Physiology or Medicine,University of Toronto,Canada,47,1613315.5
+28,male,Robert A. Millikan,1868,USA,1923,1,3226631,Physics,California Institute of Technology (Caltech),USA,55,3226631.0
+593,male,William Butler Yeats,1865,Ireland,1923,1,3226631,Literature,,,58,3226631.0
+29,male,Manne Siegbahn,1886,Sweden,1924,1,3276714,Physics,Uppsala University,Sweden,38,3276714.0
+315,male,Willem Einthoven,1860,Indonesia,1924,1,3276714,Physiology or Medicine,Leiden University,the Netherlands,64,3276714.0
+594,male,Wladyslaw Reymont,1867,Poland,1924,1,3276714,Literature,,,57,3276714.0
+489,male,Charles G. Dawes,1865,USA,1925,2,3269232,Peace,,,60,1634616.0
+596,male,George Bernard Shaw,1856,Ireland,1925,1,3269232,Literature,,,69,3269232.0
+31,male,Gustav Hertz,1887,Germany,1925,2,3269232,Physics,Halle University,Germany,38,1634616.0
+30,male,James Franck,1882,Germany,1925,2,3269232,Physics,Goettingen University,Germany,43,1634616.0
+182,male,Richard Zsigmondy,1865,Austria,1925,1,3269232,Chemistry,Goettingen University,Germany,60,3269232.0
+488,male,Sir Austen Chamberlain,1863,United Kingdom,1925,2,3269232,Peace,,,62,1634616.0
+490,male,Aristide Briand,1862,France,1926,2,3332487,Peace,,,64,1666243.5
+597,female,Grazia Deledda,1871,Italy,1926,1,3332487,Literature,,,55,3332487.0
+491,male,Gustav Stresemann,1878,Germany,1926,2,3332487,Peace,,,48,1666243.5
+32,male,Jean Baptiste Perrin,1870,France,1926,1,3332487,Physics,Sorbonne University,France,56,3332487.0
+316,male,Johannes Fibiger,1867,Denmark,1926,1,3332487,Physiology or Medicine,Copenhagen University,Denmark,59,3332487.0
+183,male,The Svedberg,1884,Sweden,1926,1,3332487,Chemistry,Uppsala University,Sweden,42,3332487.0
+33,male,Arthur H. Compton,1892,USA,1927,2,3658946,Physics,University of Chicago,USA,35,1829473.0
+34,male,C.T.R. Wilson,1869,Scotland,1927,2,3658946,Physics,University of Cambridge,United Kingdom,58,1829473.0
+492,male,Ferdinand Buisson,1841,France,1927,2,3658946,Peace,,,86,1829473.0
+184,male,Heinrich Wieland,1877,Germany,1927,1,3658946,Chemistry,Munich University,Germany,50,3658946.0
+600,male,Henri Bergson,1859,France,1927,1,3658946,Literature,,,68,3658946.0
+317,male,Julius Wagner-Jauregg,1857,Austria,1927,1,3658946,Physiology or Medicine,Vienna University,Austria,70,3658946.0
+493,male,Ludwig Quidde,1858,Germany,1927,2,3658946,Peace,,,69,1829473.0
+185,male,Adolf Windaus,1876,Germany,1928,1,4539342,Chemistry,Goettingen University,Germany,52,4539342.0
+318,male,Charles Nicolle,1866,France,1928,1,4539342,Physiology or Medicine,Institut Pasteur,Tunisia,62,4539342.0
+35,male,Owen Willans Richardson,1879,United Kingdom,1928,1,4539342,Physics,London University,United Kingdom,49,4539342.0
+601,female,Sigrid Undset,1882,Denmark,1928,1,4539342,Literature,,,46,4539342.0
+186,male,Arthur Harden,1865,United Kingdom,1929,2,4996952,Chemistry,London University,United Kingdom,64,2498476.0
+319,male,Christiaan Eijkman,1858,the Netherlands,1929,2,4996952,Physiology or Medicine,Utrecht University,the Netherlands,71,2498476.0
+494,male,Frank B. Kellogg,1856,USA,1929,1,4996952,Peace,,,73,4996952.0
+187,male,Hans von Euler-Chelpin,1873,Germany,1929,2,4996952,Chemistry,Stockholm University,Sweden,56,2498476.0
+36,male,Louis de Broglie,1892,France,1929,1,4996952,Physics,"Sorbonne University, Institut Henri Poincaré",France,37,4996952.0
+320,male,Sir Frederick Hopkins,1861,United Kingdom,1929,2,4996952,Physiology or Medicine,University of Cambridge,United Kingdom,68,2498476.0
+602,male,Thomas Mann,1875,Germany,1929,1,4996952,Literature,,,54,4996952.0
+188,male,Hans Fischer,1881,Germany,1930,1,5158685,Chemistry,Technische Hochschule (Institute of Technology),Germany,49,5158685.0
+321,male,Karl Landsteiner,1868,Austria,1930,1,5158685,Physiology or Medicine,Rockefeller Institute for Medical Research,USA,62,5158685.0
+495,male,Nathan Söderblom,1866,Sweden,1930,1,5158685,Peace,,,64,5158685.0
+603,male,Sinclair Lewis,1885,USA,1930,1,5158685,Literature,,,45,5158685.0
+37,male,Sir Chandrasekhara Venkata Raman,1888,India,1930,1,5158685,Physics,Calcutta University,India,42,5158685.0
+189,male,Carl Bosch,1874,Germany,1931,2,5333069,Chemistry,University of Heidelberg,Germany,57,2666534.5
+604,male,Erik Axel Karlfeldt,1864,Sweden,1931,1,5333069,Literature,,,67,5333069.0
+190,male,Friedrich Bergius,1884,Poland,1931,2,5333069,Chemistry,University of Heidelberg,Germany,47,2666534.5
+496,female,Jane Addams,1860,USA,1931,2,5333069,Peace,,,71,2666534.5
+497,male,Nicholas Murray Butler,1862,USA,1931,2,5333069,Peace,Columbia University,USA,69,2666534.5
+322,male,Otto Warburg,1883,Germany,1931,1,5333069,Physiology or Medicine,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie,Germany,48,5333069.0
+324,male,Edgar Adrian,1889,United Kingdom,1932,2,5375024,Physiology or Medicine,University of Cambridge,United Kingdom,43,2687512.0
+191,male,Irving Langmuir,1881,USA,1932,1,5375024,Chemistry,General Electric Company,USA,51,5375024.0
+605,male,John Galsworthy,1867,United Kingdom,1932,1,5375024,Literature,,,65,5375024.0
+323,male,Sir Charles Sherrington,1857,United Kingdom,1932,2,5375024,Physiology or Medicine,University of Oxford,United Kingdom,75,2687512.0
+38,male,Werner Heisenberg,1901,Germany,1932,1,5375024,Physics,Leipzig University,Germany,31,5375024.0
+39,male,Erwin Schrödinger,1887,Austria,1933,2,5511251,Physics,Berlin University,Germany,46,2755625.5
+606,male,Ivan Bunin,1870,Russia,1933,1,5511251,Literature,,,63,5511251.0
+40,male,Paul A.M. Dirac,1902,United Kingdom,1933,2,5511251,Physics,University of Cambridge,United Kingdom,31,2755625.5
+498,male,Sir Norman Angell,1872,United Kingdom,1933,1,5511251,Peace,,,61,5511251.0
+325,male,Thomas H. Morgan,1866,USA,1933,1,5511251,Physiology or Medicine,California Institute of Technology (Caltech),USA,67,5511251.0
+499,male,Arthur Henderson,1863,Scotland,1934,1,5261333,Peace,,,71,5261333.0
+326,male,George H. Whipple,1878,USA,1934,3,5261333,Physiology or Medicine,University of Rochester,USA,56,1753777.6666666667
+327,male,George R. Minot,1885,USA,1934,3,5261333,Physiology or Medicine,Harvard University,USA,49,1753777.6666666667
+192,male,Harold C. Urey,1893,USA,1934,1,5261333,Chemistry,Columbia University,USA,41,5261333.0
+607,male,Luigi Pirandello,1867,Italy,1934,1,5261333,Literature,,,67,5261333.0
+328,male,William P. Murphy,1892,USA,1934,3,5261333,Physiology or Medicine,Harvard University,USA,42,1753777.6666666667
+500,male,Carl von Ossietzky,1889,Germany,1935,1,5088026,Peace,,,46,5088026.0
+193,male,Frédéric Joliot,1900,France,1935,2,5088026,Chemistry,Institut du Radium,France,35,2544013.0
+329,male,Hans Spemann,1869,Germany,1935,1,5088026,Physiology or Medicine,University of Freiburg im Breisgau,Germany,66,5088026.0
+194,female,Irène Joliot-Curie,1897,France,1935,2,5088026,Chemistry,Institut du Radium,France,38,2544013.0
+41,male,James Chadwick,1891,United Kingdom,1935,1,5088026,Physics,Liverpool University,United Kingdom,44,5088026.0
+43,male,Carl D. Anderson,1905,USA,1936,2,5002519,Physics,California Institute of Technology (Caltech),USA,31,2501259.5
+501,male,Carlos Saavedra Lamas,1878,Argentina,1936,1,5002519,Peace,,,58,5002519.0
+608,male,Eugene O'Neill,1888,USA,1936,1,5002519,Literature,,,48,5002519.0
+331,male,Otto Loewi,1873,Germany,1936,2,5002519,Physiology or Medicine,Graz University,Austria,63,2501259.5
+195,male,Peter Debye,1884,the Netherlands,1936,1,5002519,Chemistry,Berlin University,Germany,52,5002519.0
+330,male,Sir Henry Dale,1875,United Kingdom,1936,2,5002519,Physiology or Medicine,National Institute for Medical Research,United Kingdom,61,2501259.5
+42,male,Victor F. Hess,1883,Austria,1936,2,5002519,Physics,Innsbruck University,Austria,53,2501259.5
+332,male,Albert Szent-Györgyi,1893,Hungary,1937,1,4801680,Physiology or Medicine,Szeged University,Hungary,44,4801680.0
+44,male,Clinton Davisson,1881,USA,1937,2,4801680,Physics,Bell Telephone Laboratories,USA,56,2400840.0
+45,male,George Paget Thomson,1892,United Kingdom,1937,2,4801680,Physics,London University,United Kingdom,45,2400840.0
+196,male,Norman Haworth,1883,United Kingdom,1937,2,4801680,Chemistry,Birmingham University,United Kingdom,54,2400840.0
+197,male,Paul Karrer,1889,Russia,1937,2,4801680,Chemistry,University of Zurich,Switzerland,48,2400840.0
+502,male,"Robert Cecil, Viscount Cecil of Chelwood",1864,United Kingdom,1937,1,4801680,Peace,,,73,4801680.0
+609,male,Roger Martin du Gard,1881,France,1937,1,4801680,Literature,,,56,4801680.0
+333,male,Corneille Heymans,1892,Belgium,1938,1,4625656,Physiology or Medicine,Ghent University,Belgium,46,4625656.0
+46,male,Enrico Fermi,1901,Italy,1938,1,4625656,Physics,Rome University,Italy,37,4625656.0
+610,female,Pearl Buck,1892,USA,1938,1,4625656,Literature,,,46,4625656.0
+198,male,Richard Kuhn,1900,Austria,1938,1,4625656,Chemistry,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung,Germany,38,4625656.0
+199,male,Adolf Butenandt,1903,Germany,1939,2,4304564,Chemistry,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie,Germany,36,2152282.0
+47,male,Ernest Lawrence,1901,USA,1939,1,4304564,Physics,University of California,USA,38,4304564.0
+613,male,Frans Eemil Sillanpää,1888,Finland,1939,1,4304564,Literature,,,51,4304564.0
+334,male,Gerhard Domagk,1895,Poland,1939,1,4304564,Physiology or Medicine,Munster University,Germany,44,4304564.0
+200,male,Leopold Ruzicka,1887,Croatia,1939,2,4304564,Chemistry,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,52,2152282.0
+336,male,Edward A. Doisy,1893,USA,1943,2,2566588,Physiology or Medicine,Saint Louis University,USA,50,1283294.0
+201,male,George de Hevesy,1885,Hungary,1943,1,2566588,Chemistry,Stockholm University,Sweden,58,2566588.0
+335,male,Henrik Dam,1895,Denmark,1943,2,2566588,Physiology or Medicine,Polytechnic Institute,Denmark,48,1283294.0
+48,male,Otto Stern,1888,Poland,1943,1,2566588,Physics,Carnegie Institute of Technology,USA,55,2566588.0
+338,male,Herbert S. Gasser,1888,USA,1944,2,2555983,Physiology or Medicine,Rockefeller Institute for Medical Research,USA,56,1277991.5
+49,male,Isidor Isaac Rabi,1898,Poland,1944,1,2555983,Physics,Columbia University,USA,46,2555983.0
+614,male,Johannes V. Jensen,1873,Denmark,1944,1,2555983,Literature,,,71,2555983.0
+337,male,Joseph Erlanger,1874,USA,1944,2,2555983,Physiology or Medicine,Washington University,USA,70,1277991.5
+202,male,Otto Hahn,1879,Germany,1944,1,2555983,Chemistry,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,Germany,65,2555983.0
+203,male,Artturi Virtanen,1895,Finland,1945,1,2545326,Chemistry,University of Helsinki,Finland,50,2545326.0
+505,male,Cordell Hull,1871,USA,1945,1,2545326,Peace,,,74,2545326.0
+340,male,Ernst B. Chain,1906,Germany,1945,3,2545326,Physiology or Medicine,University of Oxford,United Kingdom,39,848442.0
+615,female,Gabriela Mistral,1889,Chile,1945,1,2545326,Literature,,,56,2545326.0
+339,male,Sir Alexander Fleming,1881,Scotland,1945,3,2545326,Physiology or Medicine,London University,United Kingdom,64,848442.0
+341,male,Sir Howard Florey,1898,Australia,1945,3,2545326,Physiology or Medicine,University of Oxford,United Kingdom,47,848442.0
+50,male,Wolfgang Pauli,1900,Austria,1945,1,2545326,Physics,Princeton University,USA,45,2545326.0
+506,female,Emily Greene Balch,1867,USA,1946,2,2549333,Peace,,,79,1274666.5
+617,male,Hermann Hesse,1877,Germany,1946,1,2549333,Literature,,,69,2549333.0
+342,male,Hermann J. Muller,1890,USA,1946,1,2549333,Physiology or Medicine,Indiana University,USA,56,2549333.0
+204,male,James B. Sumner,1887,USA,1946,2,2549333,Chemistry,Cornell University,USA,59,1274666.5
+205,male,John H. Northrop,1891,USA,1946,4,2549333,Chemistry,Rockefeller Institute for Medical Research,USA,55,637333.25
+507,male,John R. Mott,1865,USA,1946,2,2549333,Peace,,,81,1274666.5
+51,male,Percy W. Bridgman,1882,USA,1946,1,2549333,Physics,Harvard University,USA,64,2549333.0
+206,male,Wendell M. Stanley,1904,USA,1946,4,2549333,Chemistry,Rockefeller Institute for Medical Research,USA,42,637333.25
+618,male,André Gide,1869,France,1947,1,2967378,Literature,,,78,2967378.0
+345,male,Bernardo Houssay,1887,Argentina,1947,2,2967378,Physiology or Medicine,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),Argentina,60,1483689.0
+343,male,Carl Cori,1896,Czech Republic,1947,4,2967378,Physiology or Medicine,Washington University,USA,51,741844.5
+52,male,Edward V. Appleton,1892,United Kingdom,1947,1,2967378,Physics,Department of Scientific and Industrial Research,United Kingdom,55,2967378.0
+344,female,Gerty Cori,1896,Czech Republic,1947,4,2967378,Physiology or Medicine,Washington University,USA,51,741844.5
+207,male,Sir Robert Robinson,1886,United Kingdom,1947,1,2967378,Chemistry,University of Oxford,United Kingdom,61,2967378.0
+208,male,Arne Tiselius,1902,Sweden,1948,1,3112313,Chemistry,Uppsala University,Sweden,46,3112313.0
+53,male,Patrick M.S. Blackett,1897,United Kingdom,1948,1,3112313,Physics,Victoria University,United Kingdom,51,3112313.0
+346,male,Paul Müller,1899,Switzerland,1948,1,3112313,Physiology or Medicine,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),Switzerland,49,3112313.0
+619,male,T.S. Eliot,1888,USA,1948,1,3112313,Literature,,,60,3112313.0
+348,male,Egas Moniz,1874,Portugal,1949,2,2983576,Physiology or Medicine,University of Lisbon,Portugal,75,1491788.0
+54,male,Hideki Yukawa,1907,Japan,1949,1,2983576,Physics,Kyoto Imperial University,Japan,42,2983576.0
+510,male,Lord Boyd Orr,1880,Scotland,1949,1,2983576,Peace,,,69,2983576.0
+347,male,Walter Hess,1881,Switzerland,1949,2,2983576,Physiology or Medicine,University of Zurich,Switzerland,68,1491788.0
+209,male,William F. Giauque,1895,Canada,1949,1,2983576,Chemistry,University of California,USA,54,2983576.0
+620,male,William Faulkner,1897,USA,1949,1,2983576,Literature,,,52,2983576.0
+621,male,Bertrand Russell,1872,United Kingdom,1950,1,3105508,Literature,,,78,3105508.0
+55,male,Cecil Powell,1903,United Kingdom,1950,1,3105508,Physics,Bristol University,United Kingdom,47,3105508.0
+349,male,Edward C. Kendall,1886,USA,1950,3,3105508,Physiology or Medicine,Mayo Clinic,USA,64,1035169.3333333334
+211,male,Kurt Alder,1902,Poland,1950,2,3105508,Chemistry,Cologne University,Germany,48,1552754.0
+210,male,Otto Diels,1876,Germany,1950,2,3105508,Chemistry,Kiel University,Germany,74,1552754.0
+351,male,Philip S. Hench,1896,USA,1950,3,3105508,Physiology or Medicine,Mayo Clinic,USA,54,1035169.3333333334
+511,male,Ralph Bunche,1904,USA,1950,1,3105508,Peace,Harvard University,USA,46,3105508.0
+350,male,Tadeus Reichstein,1897,Poland,1950,3,3105508,Physiology or Medicine,Basel University,Switzerland,53,1035169.3333333334
+212,male,Edwin M. McMillan,1907,USA,1951,2,2734798,Chemistry,University of California,USA,44,1367399.0
+57,male,Ernest T.S. Walton,1903,Ireland,1951,2,2734798,Physics,Trinity College,Ireland,48,1367399.0
+213,male,Glenn T. Seaborg,1912,USA,1951,2,2734798,Chemistry,University of California,USA,39,1367399.0
+56,male,John Cockcroft,1897,United Kingdom,1951,2,2734798,Physics,Atomic Energy Research Establishment,United Kingdom,54,1367399.0
+512,male,Léon Jouhaux,1879,France,1951,1,2734798,Peace,,,72,2734798.0
+352,male,Max Theiler,1899,South Africa,1951,1,2734798,Physiology or Medicine,"Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation",USA,52,2734798.0
+622,male,Pär Lagerkvist,1891,Sweden,1951,1,2734798,Literature,,,60,2734798.0
+513,male,Albert Schweitzer,1875,France,1952,1,2592831,Peace,,,77,2592831.0
+214,male,Archer J.P. Martin,1910,United Kingdom,1952,2,2592831,Chemistry,National Institute for Medical Research,United Kingdom,42,1296415.5
+59,male,E. M. Purcell,1912,USA,1952,2,2592831,Physics,Harvard University,USA,40,1296415.5
+58,male,Felix Bloch,1905,Switzerland,1952,2,2592831,Physics,Stanford University,USA,47,1296415.5
+623,male,François Mauriac,1885,France,1952,1,2592831,Literature,,,67,2592831.0
+215,male,Richard L.M. Synge,1914,United Kingdom,1952,2,2592831,Chemistry,Rowett Research Institute,United Kingdom,38,1296415.5
+353,male,Selman A. Waksman,1888,Ukraine,1952,1,2592831,Physiology or Medicine,Rutgers University,USA,64,2592831.0
+60,male,Frits Zernike,1888,the Netherlands,1953,1,2614331,Physics,Groningen University,the Netherlands,65,2614331.0
+355,male,Fritz Lipmann,1899,Russia,1953,2,2614331,Physiology or Medicine,Harvard Medical School,USA,54,1307165.5
+514,male,George C. Marshall,1880,USA,1953,1,2614331,Peace,,,73,2614331.0
+354,male,Hans Krebs,1900,Germany,1953,2,2614331,Physiology or Medicine,Sheffield University,United Kingdom,53,1307165.5
+216,male,Hermann Staudinger,1881,Germany,1953,1,2614331,Chemistry,University of Freiburg,Germany,72,2614331.0
+624,male,Winston Churchill,1874,United Kingdom,1953,1,2614331,Literature,,,79,2614331.0
+625,male,Ernest Hemingway,1899,USA,1954,1,2688094,Literature,,,55,2688094.0
+358,male,Frederick C. Robbins,1916,USA,1954,3,2688094,Physiology or Medicine,Western Reserve University,USA,38,896031.3333333334
+356,male,John F. Enders,1897,USA,1954,3,2688094,Physiology or Medicine,Harvard Medical School,USA,57,896031.3333333334
+217,male,Linus Pauling,1901,USA,1962,1,2888429,Peace,California Institute of Technology (Caltech),USA,61,2888429.0
+61,male,Max Born,1882,Poland,1954,2,2688094,Physics,Edinburgh University,United Kingdom,72,1344047.0
+357,male,Thomas H. Weller,1915,USA,1954,3,2688094,Physiology or Medicine,"Research Division of Infectious Diseases, Children's Medical Center",USA,39,896031.3333333334
+62,male,Walther Bothe,1891,Germany,1954,2,2688094,Physics,University of Heidelberg,Germany,63,1344047.0
+626,male,Halldór Laxness,1902,Iceland,1955,1,2730214,Literature,,,53,2730214.0
+359,male,Hugo Theorell,1903,Sweden,1955,1,2730214,Physiology or Medicine,"Karolinska Institutet, Nobel Medical Institute",Sweden,52,2730214.0
+64,male,Polykarp Kusch,1911,Germany,1955,2,2730214,Physics,Columbia University,USA,44,1365107.0
+218,male,Vincent du Vigneaud,1901,USA,1955,1,2730214,Chemistry,Cornell University,USA,54,2730214.0
+63,male,Willis E. Lamb,1913,USA,1955,2,2730214,Physics,Stanford University,USA,42,1365107.0
+360,male,André F. Cournand,1895,France,1956,3,2748452,Physiology or Medicine,"Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital",USA,61,916150.6666666666
+362,male,Dickinson W. Richards,1895,USA,1956,3,2748452,Physiology or Medicine,Columbia University,USA,61,916150.6666666666
+66,male,John Bardeen,1908,USA,1956,3,2748452,Physics,University of Illinois,USA,48,916150.6666666666
+627,male,Juan Ramón Jiménez,1881,Spain,1956,1,2748452,Literature,,,75,2748452.0
+220,male,Nikolay Semenov,1896,Russia,1956,2,2748452,Chemistry,Institute for Chemical Physics of the Academy of Sciences of the USSR,Russia,60,1374226.0
+219,male,Sir Cyril Hinshelwood,1897,United Kingdom,1956,2,2748452,Chemistry,University of Oxford,United Kingdom,59,1374226.0
+67,male,Walter H. Brattain,1902,China,1956,3,2748452,Physics,Bell Telephone Laboratories,USA,54,916150.6666666666
+361,male,Werner Forssmann,1904,Germany,1956,3,2748452,Physiology or Medicine,Mainz University,Germany,52,916150.6666666666
+65,male,William B. Shockley,1910,United Kingdom,1956,3,2748452,Physics,"Semiconductor Laboratory of Beckman Instruments, Inc.",USA,46,916150.6666666666
+628,male,Albert Camus,1913,Algeria,1957,1,2746709,Literature,,,44,2746709.0
+68,male,Chen Ning Yang,1922,China,1957,2,2746709,Physics,Institute for Advanced Study,USA,35,1373354.5
+363,male,Daniel Bovet,1907,Switzerland,1957,1,2746709,Physiology or Medicine,Istituto Superiore di Sanità (Chief Institute of Public Health),Italy,50,2746709.0
+516,male,Lester Bowles Pearson,1897,Canada,1957,1,2746709,Peace,,,60,2746709.0
+221,male,Lord Todd,1907,Scotland,1957,1,2746709,Chemistry,University of Cambridge,United Kingdom,50,2746709.0
+69,male,Tsung-Dao Lee,1926,China,1957,2,2746709,Physics,Columbia University,USA,31,1373354.5
+629,male,Boris Pasternak,1890,Russia,1958,1,2694692,Literature,,,68,2694692.0
+365,male,Edward Tatum,1909,USA,1958,4,2694692,Physiology or Medicine,Rockefeller Institute for Medical Research,USA,49,673673.0
+222,male,Frederick Sanger,1918,United Kingdom,1958,1,2694692,Chemistry,University of Cambridge,United Kingdom,40,2694692.0
+364,male,George Beadle,1903,USA,1958,4,2694692,Physiology or Medicine,California Institute of Technology (Caltech),USA,55,673673.0
+517,male,Georges Pire,1910,Belgium,1958,1,2694692,Peace,,,48,2694692.0
+71,male,Igor Y. Tamm,1895,Russia,1958,3,2694692,Physics,Lomonosov Moscow State University,Russia,63,898230.6666666666
+721,male,Il´ja M. Frank,1908,Russia,1958,3,2694692,Physics,Lomonosov Moscow State University,Russia,50,898230.6666666666
+366,male,Joshua Lederberg,1925,USA,1958,2,2694692,Physiology or Medicine,University of Wisconsin,USA,33,1347346.0
+70,male,Pavel A. Cherenkov,1904,Russia,1958,3,2694692,Physics,P.N. Lebedev Physical Institute,Russia,54,898230.6666666666
+368,male,Arthur Kornberg,1918,USA,1959,2,2753427,Physiology or Medicine,Stanford University,USA,41,1376713.5
+72,male,Emilio Segrè,1905,Italy,1959,2,2753427,Physics,University of California,USA,54,1376713.5
+223,male,Jaroslav Heyrovsky,1890,Czech Republic,1959,1,2753427,Chemistry,Polarographic Institute of the Czechoslovak Academy of Science,Czech Republic,69,2753427.0
+73,male,Owen Chamberlain,1920,USA,1959,2,2753427,Physics,University of California,USA,39,1376713.5
+518,male,Philip Noel-Baker,1889,United Kingdom,1959,1,2753427,Peace,,,70,2753427.0
+630,male,Salvatore Quasimodo,1901,Italy,1959,1,2753427,Literature,,,58,2753427.0
+367,male,Severo Ochoa,1905,Spain,1959,2,2753427,Physiology or Medicine,"New York University, College of Medicine",USA,54,1376713.5
+519,male,Albert Luthuli,1898,Zimbabwe,1960,1,2713265,Peace,,,62,2713265.0
+74,male,Donald A. Glaser,1926,USA,1960,1,2713265,Physics,University of California,USA,34,2713265.0
+370,male,Peter Medawar,1915,Brazil,1960,2,2713265,Physiology or Medicine,University College,United Kingdom,45,1356632.5
+631,male,Saint-John Perse,1887,Guadeloupe Island,1960,1,2713265,Literature,,,73,2713265.0
+369,male,Sir Frank Macfarlane Burnet,1899,Australia,1960,2,2713265,Physiology or Medicine,Walter and Eliza Hall Institute for Medical Research,Australia,61,1356632.5
+224,male,Willard F. Libby,1908,USA,1960,1,2713265,Chemistry,University of California,USA,52,2713265.0
+520,male,Dag Hammarskjöld,1905,Sweden,1961,1,2930643,Peace,,,56,2930643.0
+371,male,Georg von Békésy,1899,Hungary,1961,1,2930643,Physiology or Medicine,Harvard University,USA,62,2930643.0
+633,male,Ivo Andric,1892,Bosnia and Herzegovina,1961,1,2930643,Literature,,,69,2930643.0
+225,male,Melvin Calvin,1911,USA,1961,1,2930643,Chemistry,University of California,USA,50,2930643.0
+75,male,Robert Hofstadter,1915,USA,1961,2,2930643,Physics,Stanford University,USA,46,1465321.5
+76,male,Rudolf Mössbauer,1929,Germany,1961,2,2930643,Physics,Technical University,Germany,32,1465321.5
+372,male,Francis Crick,1916,United Kingdom,1962,3,2888429,Physiology or Medicine,MRC Laboratory of Molecular Biology,United Kingdom,46,962809.6666666666
+373,male,James Watson,1928,USA,1962,3,2888429,Physiology or Medicine,Harvard University,USA,34,962809.6666666666
+227,male,John C. Kendrew,1917,United Kingdom,1962,2,2888429,Chemistry,MRC Laboratory of Molecular Biology,United Kingdom,45,1444214.5
+634,male,John Steinbeck,1902,USA,1962,1,2888429,Literature,,,60,2888429.0
+77,male,Lev Landau,1908,Azerbaijan,1962,1,2888429,Physics,Academy of Sciences,Russia,54,2888429.0
+374,male,Maurice Wilkins,1916,New Zealand,1962,3,2888429,Physiology or Medicine,London University,United Kingdom,46,962809.6666666666
+226,male,Max F. Perutz,1914,Austria,1962,2,2888429,Chemistry,MRC Laboratory of Molecular Biology,United Kingdom,48,1444214.5
+376,male,Alan Hodgkin,1914,United Kingdom,1963,3,2890771,Physiology or Medicine,University of Cambridge,United Kingdom,49,963590.3333333334
+377,male,Andrew Huxley,1917,United Kingdom,1963,3,2890771,Physiology or Medicine,University College,United Kingdom,46,963590.3333333334
+78,male,Eugene Wigner,1902,Hungary,1963,2,2890771,Physics,Princeton University,USA,61,1445385.5
+635,male,Giorgos Seferis,1900,Turkey,1963,1,2890771,Literature,,,63,2890771.0
+229,male,Giulio Natta,1903,Italy,1963,2,2890771,Chemistry,Institute of Technology,Italy,60,1445385.5
+80,male,J. Hans D. Jensen,1907,Germany,1963,4,2890771,Physics,University of Heidelberg,Germany,56,722692.75
+228,male,Karl Ziegler,1898,Germany,1963,2,2890771,Chemistry,Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research),Germany,65,1445385.5
+79,female,Maria Goeppert Mayer,1906,Poland,1963,4,2890771,Physics,University of California,USA,57,722692.75
+375,male,Sir John Eccles,1903,Australia,1963,3,2890771,Physiology or Medicine,Australian National University,Australia,60,963590.3333333334
+83,male,Aleksandr M. Prokhorov,1916,Australia,1964,4,2879320,Physics,P.N. Lebedev Physical Institute,Russia,48,719830.0
+81,male,Charles H. Townes,1915,USA,1964,2,2879320,Physics,Massachusetts Institute of Technology (MIT),USA,49,1439660.0
+230,female,Dorothy Crowfoot Hodgkin,1910,Egypt,1964,1,2879320,Chemistry,"University of Oxford, Royal Society",United Kingdom,54,2879320.0
+379,male,Feodor Lynen,1911,Germany,1964,2,2879320,Physiology or Medicine,Max-Planck-Institut für Zellchemie,Germany,53,1439660.0
+637,male,Jean-Paul Sartre,1905,France,1964,1,2879320,Literature,,,59,2879320.0
+378,male,Konrad Bloch,1912,Poland,1964,2,2879320,Physiology or Medicine,Harvard University,USA,52,1439660.0
+524,male,Martin Luther King Jr.,1929,USA,1964,1,2879320,Peace,,,35,2879320.0
+82,male,Nicolay G. Basov,1922,Russia,1964,4,2879320,Physics,P.N. Lebedev Physical Institute,Russia,42,719830.0
+381,male,André Lwoff,1902,France,1965,3,2833358,Physiology or Medicine,Institut Pasteur,France,63,944452.6666666666
+380,male,François Jacob,1920,France,1965,3,2833358,Physiology or Medicine,Institut Pasteur,France,45,944452.6666666666
+382,male,Jacques Monod,1910,France,1965,3,2833358,Physiology or Medicine,Institut Pasteur,France,55,944452.6666666666
+85,male,Julian Schwinger,1918,USA,1965,3,2833358,Physics,Harvard University,USA,47,944452.6666666666
+638,male,Mikhail Sholokhov,1905,Russia,1965,1,2833358,Literature,,,60,2833358.0
+86,male,Richard P. Feynman,1918,USA,1965,3,2833358,Physics,California Institute of Technology (Caltech),USA,47,944452.6666666666
+231,male,Robert B. Woodward,1917,USA,1965,1,2833358,Chemistry,Harvard University,USA,48,2833358.0
+84,male,Sin-Itiro Tomonaga,1906,Japan,1965,3,2833358,Physics,Tokyo University of Education,Japan,59,944452.6666666666
+87,male,Alfred Kastler,1902,France,1966,1,2835149,Physics,École Normale Supérieure,France,64,2835149.0
+384,male,Charles B. Huggins,1901,Canada,1966,2,2835149,Physiology or Medicine,"University of Chicago, Ben May Laboratory for Cancer Research",USA,65,1417574.5
+640,female,Nelly Sachs,1891,Germany,1966,2,2835149,Literature,,,75,1417574.5
+383,male,Peyton Rous,1879,USA,1966,2,2835149,Physiology or Medicine,Rockefeller University,USA,87,1417574.5
+232,male,Robert S. Mulliken,1896,USA,1966,1,2835149,Chemistry,University of Chicago,USA,70,2835149.0
+639,male,Shmuel Agnon,1888,Ukraine,1966,2,2835149,Literature,,,78,1417574.5
+235,male,George Porter,1920,United Kingdom,1967,4,2895166,Chemistry,Royal Institution of Great Britain,United Kingdom,47,723791.5
+387,male,George Wald,1906,USA,1967,3,2895166,Physiology or Medicine,Harvard University,USA,61,965055.3333333334
+88,male,Hans Bethe,1906,France,1967,1,2895166,Physics,Cornell University,USA,61,2895166.0
+386,male,Keffer Hartline,1903,USA,1967,3,2895166,Physiology or Medicine,Rockefeller University,USA,64,965055.3333333334
+233,male,Manfred Eigen,1927,Germany,1967,2,2895166,Chemistry,Max-Planck-Institut für Physikalische Chemie,Germany,40,1447583.0
+641,male,Miguel Angel Asturias,1899,Guatemala,1967,1,2895166,Literature,,,68,2895166.0
+385,male,Ragnar Granit,1900,Finland,1967,3,2895166,Physiology or Medicine,Karolinska Institutet,Sweden,67,965055.3333333334
+234,male,Ronald G.W. Norrish,1897,United Kingdom,1967,4,2895166,Chemistry,Institute of Physical Chemistry,United Kingdom,70,723791.5
+389,male,H. Gobind Khorana,1922,India,1968,3,3107674,Physiology or Medicine,University of Wisconsin,USA,46,1035891.3333333334
+236,male,Lars Onsager,1903,Norway,1968,1,3107674,Chemistry,Yale University,USA,65,3107674.0
+89,male,Luis Alvarez,1911,USA,1968,1,3107674,Physics,University of California,USA,57,3107674.0
+390,male,Marshall W. Nirenberg,1927,USA,1968,3,3107674,Physiology or Medicine,National Institutes of Health,USA,41,1035891.3333333334
+526,male,René Cassin,1887,France,1968,1,3107674,Peace,,,81,3107674.0
+388,male,Robert W. Holley,1922,USA,1968,3,3107674,Physiology or Medicine,Cornell University,USA,46,1035891.3333333334
+642,male,Yasunari Kawabata,1899,Japan,1968,1,3107674,Literature,,,69,3107674.0
+392,male,Alfred D. Hershey,1908,USA,1969,3,3239253,Physiology or Medicine,Carnegie Institution of Washington,USA,61,1079751.0
+237,male,Derek Barton,1918,United Kingdom,1969,2,3239253,Chemistry,Imperial College,United Kingdom,51,1619626.5
+678,male,Jan Tinbergen,1903,the Netherlands,1969,2,3239253,Economic Sciences,The Netherlands School of Economics,the Netherlands,66,1619626.5
+391,male,Max Delbrück,1906,Germany,1969,3,3239253,Physiology or Medicine,California Institute of Technology (Caltech),USA,63,1079751.0
+90,male,Murray Gell-Mann,1929,USA,1969,1,3239253,Physics,California Institute of Technology (Caltech),USA,40,3239253.0
+238,male,Odd Hassel,1897,Norway,1969,2,3239253,Chemistry,University of Oslo,Norway,72,1619626.5
+677,male,Ragnar Frisch,1895,Norway,1969,2,3239253,Economic Sciences,University of Oslo,Norway,74,1619626.5
+393,male,Salvador E. Luria,1912,Italy,1969,3,3239253,Physiology or Medicine,Massachusetts Institute of Technology (MIT),USA,57,1079751.0
+643,male,Samuel Beckett,1906,Ireland,1969,1,3239253,Literature,,,63,3239253.0
+644,male,Alexandr Solzhenitsyn,1918,Russia,1970,1,3235593,Literature,,,52,3235593.0
+91,male,Hannes Alfvén,1908,Sweden,1970,2,3235593,Physics,Royal Institute of Technology,Sweden,62,1617796.5
+396,male,Julius Axelrod,1912,USA,1970,3,3235593,Physiology or Medicine,National Institutes of Health,USA,58,1078531.0
+92,male,Louis Néel,1904,France,1970,2,3235593,Physics,University of Grenoble,France,66,1617796.5
+239,male,Luis Leloir,1906,France,1970,1,3235593,Chemistry,Institute for Biochemical Research,Argentina,64,3235593.0
+528,male,Norman Borlaug,1914,USA,1970,1,3235593,Peace,,,56,3235593.0
+679,male,Paul A. Samuelson,1915,USA,1970,1,3235593,Economic Sciences,Massachusetts Institute of Technology (MIT),USA,55,3235593.0
+394,male,Sir Bernard Katz,1911,Germany,1970,3,3235593,Physiology or Medicine,University College,United Kingdom,59,1078531.0
+395,male,Ulf von Euler,1905,Sweden,1970,3,3235593,Physiology or Medicine,Karolinska Institutet,Sweden,65,1078531.0
+93,male,Dennis Gabor,1900,Hungary,1971,1,3382087,Physics,Imperial College,United Kingdom,71,3382087.0
+397,male,"Earl W. Sutherland, Jr.",1915,USA,1971,1,3382087,Physiology or Medicine,Vanderbilt University,USA,56,3382087.0
+240,male,Gerhard Herzberg,1904,Germany,1971,1,3382087,Chemistry,National Research Council of Canada,Canada,67,3382087.0
+645,male,Pablo Neruda,1904,Chile,1971,1,3382087,Literature,,,67,3382087.0
+680,male,Simon Kuznets,1901,Belarus,1971,1,3382087,Economic Sciences,Harvard University,USA,70,3382087.0
+529,male,Willy Brandt,1913,Germany,1971,1,3382087,Peace,,,58,3382087.0
+241,male,Christian Anfinsen,1916,USA,1972,2,3406394,Chemistry,National Institutes of Health,USA,56,1703197.0
+398,male,Gerald M. Edelman,1929,USA,1972,2,3406394,Physiology or Medicine,Rockefeller University,USA,43,1703197.0
+647,male,Heinrich Böll,1917,Germany,1972,1,3406394,Literature,,,55,3406394.0
+681,male,John R. Hicks,1904,United Kingdom,1972,2,3406394,Economic Sciences,All Souls College,United Kingdom,68,1703197.0
+682,male,Kenneth J. Arrow,1921,USA,1972,2,3406394,Economic Sciences,Harvard University,USA,51,1703197.0
+95,male,Leon N. Cooper,1930,USA,1972,3,3406394,Physics,Brown University,USA,42,1135464.6666666667
+96,male,Robert Schrieffer,1931,USA,1972,3,3406394,Physics,University of Pennsylvania,USA,41,1135464.6666666667
+399,male,Rodney R. Porter,1917,United Kingdom,1972,2,3406394,Physiology or Medicine,University of Oxford,United Kingdom,55,1703197.0
+242,male,Stanford Moore,1913,USA,1972,4,3406394,Chemistry,Rockefeller University,USA,59,851598.5
+243,male,William H. Stein,1911,USA,1972,4,3406394,Chemistry,Rockefeller University,USA,61,851598.5
+99,male,Brian D. Josephson,1940,United Kingdom,1973,2,3392300,Physics,University of Cambridge,United Kingdom,33,1696150.0
+244,male,Ernst Otto Fischer,1918,Germany,1973,2,3392300,Chemistry,Technical University,Germany,55,1696150.0
+245,male,Geoffrey Wilkinson,1921,United Kingdom,1973,2,3392300,Chemistry,Imperial College,United Kingdom,52,1696150.0
+530,male,Henry Kissinger,1923,Germany,1973,2,3392300,Peace,,,50,1696150.0
+98,male,Ivar Giaever,1929,Norway,1973,4,3392300,Physics,General Electric Company,USA,44,848075.0
+400,male,Karl von Frisch,1886,Austria,1973,3,3392300,Physiology or Medicine,Zoologisches Institut der Universität München,Germany,87,1130766.6666666667
+401,male,Konrad Lorenz,1903,Austria,1973,3,3392300,Physiology or Medicine,"Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften, Forschungsstelle für Ethologie",Austria,70,1130766.6666666667
+531,male,Le Duc Tho ,1911,Vietnam,1973,2,3392300,Peace,,,62,1696150.0
+97,male,Leo Esaki,1925,Japan,1973,4,3392300,Physics,IBM Thomas J. Watson Research Center,USA,48,848075.0
+402,male,Nikolaas Tinbergen,1907,the Netherlands,1973,3,3392300,Physiology or Medicine,University of Oxford,United Kingdom,66,1130766.6666666667
+648,male,Patrick White,1912,United Kingdom,1973,1,3392300,Literature,,,61,3392300.0
+683,male,Wassily Leontief,1906,Russia,1973,1,3392300,Economic Sciences,Harvard University,USA,67,3392300.0
+403,male,Albert Claude,1898,Belgium,1974,3,3322627,Physiology or Medicine,Université Catholique de Louvain,Belgium,76,1107542.3333333333
+101,male,Antony Hewish,1924,United Kingdom,1974,2,3322627,Physics,University of Cambridge,United Kingdom,50,1661313.5
+404,male,Christian de Duve,1917,United Kingdom,1974,3,3322627,Physiology or Medicine,Rockefeller University,USA,57,1107542.3333333333
+533,male,Eisaku Sato,1901,Japan,1974,2,3322627,Peace,,,73,1661313.5
+649,male,Eyvind Johnson,1900,Sweden,1974,2,3322627,Literature,,,74,1661313.5
+685,male,Friedrich von Hayek,1899,Austria,1974,2,3322627,Economic Sciences,,,75,1661313.5
+405,male,George E. Palade,1912,Romania,1974,3,3322627,Physiology or Medicine,"Yale University, School of Medicine",USA,62,1107542.3333333333
+684,male,Gunnar Myrdal,1898,Sweden,1974,2,3322627,Economic Sciences,,,76,1661313.5
+650,male,Harry Martinson,1904,Sweden,1974,2,3322627,Literature,,,70,1661313.5
+100,male,Martin Ryle,1918,United Kingdom,1974,2,3322627,Physics,University of Cambridge,United Kingdom,56,1661313.5
+246,male,Paul J. Flory,1910,USA,1974,1,3322627,Chemistry,Stanford University,USA,64,3322627.0
+532,male,Seán MacBride,1904,France,1974,2,3322627,Peace,,,70,1661313.5
+102,male,Aage N. Bohr,1922,Denmark,1975,3,3465908,Physics,Niels Bohr Institute,Denmark,53,1155302.6666666667
+534,male,Andrei Sakharov,1921,Russia,1975,1,3465908,Peace,,,54,3465908.0
+103,male,Ben R. Mottelson,1926,USA,1975,3,3465908,Physics,Nordita,Denmark,49,1155302.6666666667
+406,male,David Baltimore,1938,USA,1975,3,3465908,Physiology or Medicine,Massachusetts Institute of Technology (MIT),USA,37,1155302.6666666667
+651,male,Eugenio Montale,1896,Italy,1975,1,3465908,Literature,,,79,3465908.0
+408,male,Howard M. Temin,1934,USA,1975,3,3465908,Physiology or Medicine,University of Wisconsin,USA,41,1155302.6666666667
+104,male,James Rainwater,1917,USA,1975,3,3465908,Physics,Columbia University,USA,58,1155302.6666666667
+247,male,John Cornforth,1917,Australia,1975,2,3465908,Chemistry,University of Sussex,United Kingdom,58,1732954.0
+686,male,Leonid Vitaliyevich Kantorovich,1912,Russia,1975,2,3465908,Economic Sciences,Academy of Sciences,Russia,63,1732954.0
+407,male,Renato Dulbecco,1914,Italy,1975,3,3465908,Physiology or Medicine,Imperial Cancer Research Fund Laboratory,United Kingdom,61,1155302.6666666667
+687,male,Tjalling C. Koopmans,1910,the Netherlands,1975,2,3465908,Economic Sciences,Yale University,USA,65,1732954.0
+248,male,Vladimir Prelog,1906,Bosnia and Herzegovina,1975,2,3465908,Chemistry,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,69,1732954.0
+409,male,Baruch S. Blumberg,1925,USA,1976,2,3403217,Physiology or Medicine,The Institute for Cancer Research,USA,51,1701608.5
+535,female,Betty Williams,1943,Northern Ireland,1976,2,3403217,Peace,,,33,1701608.5
+105,male,Burton Richter,1931,USA,1976,2,3403217,Physics,Stanford Linear Accelerator Center,USA,45,1701608.5
+410,male,D. Carleton Gajdusek,1923,USA,1976,2,3403217,Physiology or Medicine,National Institutes of Health,USA,53,1701608.5
+536,female,Mairead Corrigan,1944,Northern Ireland,1976,2,3403217,Peace,,,32,1701608.5
+688,male,Milton Friedman,1912,USA,1976,1,3403217,Economic Sciences,University of Chicago,USA,64,3403217.0
+106,male,Samuel C.C. Ting,1936,USA,1976,2,3403217,Physics,Massachusetts Institute of Technology (MIT),USA,40,1701608.5
+652,male,Saul Bellow,1915,Canada,1976,1,3403217,Literature,,,61,3403217.0
+249,male,William Lipscomb,1919,USA,1976,1,3403217,Chemistry,Harvard University,USA,57,3403217.0
+412,male,Andrew V. Schally,1926,Lithuania,1977,4,3136854,Physiology or Medicine,Veterans Administration Hospital,USA,51,784213.5
+689,male,Bertil Ohlin,1899,Sweden,1977,2,3136854,Economic Sciences,Stockholm School of Economics,Sweden,78,1568427.0
+250,male,Ilya Prigogine,1917,Russia,1977,1,3136854,Chemistry,Université Libre de Bruxelles,Belgium,60,3136854.0
+690,male,James E. Meade,1907,United Kingdom,1977,2,3136854,Economic Sciences,University of Cambridge,United Kingdom,70,1568427.0
+109,male,John H. Van Vleck,1899,USA,1977,3,3136854,Physics,Harvard University,USA,78,1045618.0
+107,male,Philip W. Anderson,1923,USA,1977,3,3136854,Physics,Bell Telephone Laboratories,USA,54,1045618.0
+411,male,Roger Guillemin,1924,France,1977,4,3136854,Physiology or Medicine,The Salk Institute,USA,53,784213.5
+413,female,Rosalyn Yalow,1921,USA,1977,2,3136854,Physiology or Medicine,Veterans Administration Hospital,USA,56,1568427.0
+108,male,Sir Nevill F. Mott,1905,United Kingdom,1977,3,3136854,Physics,University of Cambridge,United Kingdom,72,1045618.0
+653,male,Vicente Aleixandre,1898,Spain,1977,1,3136854,Literature,,,79,3136854.0
+538,male,Anwar al-Sadat,1918,Egypt,1978,2,2951013,Peace,,,60,1475506.5
+111,male,Arno Penzias,1933,Germany,1978,4,2951013,Physics,Bell Laboratories,USA,45,737753.25
+415,male,Daniel Nathans,1928,USA,1978,3,2951013,Physiology or Medicine,Johns Hopkins University School of Medicine,USA,50,983671.0
+416,male,Hamilton O. Smith,1931,USA,1978,3,2951013,Physiology or Medicine,Johns Hopkins University School of Medicine,USA,47,983671.0
+691,male,Herbert Simon,1916,USA,1978,1,2951013,Economic Sciences,Carnegie Mellon University,USA,62,2951013.0
+654,male,Isaac Bashevis Singer,1904,Poland,1978,1,2951013,Literature,,,74,2951013.0
+539,male,Menachem Begin,1913,Belarus,1978,2,2951013,Peace,,,65,1475506.5
+251,male,Peter Mitchell,1920,United Kingdom,1978,1,2951013,Chemistry,Glynn Research Laboratories,United Kingdom,58,2951013.0
+110,male,Pyotr Kapitsa,1894,Russia,1978,2,2951013,Physics,Academy of Sciences,Russia,84,1475506.5
+112,male,Robert Woodrow Wilson,1936,USA,1978,4,2951013,Physics,Bell Laboratories,USA,42,737753.25
+414,male,Werner Arber,1929,Switzerland,1978,3,2951013,Physiology or Medicine,Biozentrum der Universität,Switzerland,49,983671.0
+114,male,Abdus Salam,1926,Pakistan,1979,3,3042231,Physics,International Centre for Theoretical Physics,Italy,53,1014077.0
+417,male,Allan M. Cormack,1924,South Africa,1979,2,3042231,Physiology or Medicine,Tufts University,USA,55,1521115.5
+253,male,Georg Wittig,1897,Germany,1979,2,3042231,Chemistry,University of Heidelberg,Germany,82,1521115.5
+418,male,Godfrey N. Hounsfield,1919,United Kingdom,1979,2,3042231,Physiology or Medicine,"Central Research Laboratories, EMI",United Kingdom,60,1521115.5
+252,male,Herbert C. Brown,1912,United Kingdom,1979,2,3042231,Chemistry,Purdue University,USA,67,1521115.5
+540,female,Mother Teresa ,1910,North Macedonia,1979,1,3042231,Peace,,,69,3042231.0
+655,male,Odysseus Elytis,1911,Greece,1979,1,3042231,Literature,,,68,3042231.0
+113,male,Sheldon Glashow,1932,USA,1979,3,3042231,Physics,"Harvard University, Lyman Laboratory",USA,47,1014077.0
+693,male,Sir Arthur Lewis,1915,Saint Lucia,1979,2,3042231,Economic Sciences,Princeton University,USA,64,1521115.5
+115,male,Steven Weinberg,1933,USA,1979,3,3042231,Physics,Harvard University,USA,46,1014077.0
+692,male,Theodore W. Schultz,1902,USA,1979,2,3042231,Economic Sciences,University of Chicago,USA,77,1521115.5
+541,male,Adolfo Pérez Esquivel,1931,Argentina,1980,1,2942067,Peace,,,49,2942067.0
+419,male,Baruj Benacerraf,1920,Venezuela,1980,3,2942067,Physiology or Medicine,Harvard Medical School,USA,60,980689.0
+657,male,Czeslaw Milosz,1911,Lithuania,1980,1,2942067,Literature,,,69,2942067.0
+421,male,George D. Snell,1903,USA,1980,3,2942067,Physiology or Medicine,Jackson Laboratory,USA,77,980689.0
+116,male,James Cronin,1931,USA,1980,2,2942067,Physics,University of Chicago,USA,49,1471033.5
+420,male,Jean Dausset,1916,France,1980,3,2942067,Physiology or Medicine,"Université de Paris, Laboratoire Immuno-Hématologie",France,64,980689.0
+694,male,Lawrence R. Klein,1920,USA,1980,1,2942067,Economic Sciences,University of Pennsylvania,USA,60,2942067.0
+254,male,Paul Berg,1926,USA,1980,2,2942067,Chemistry,Stanford University,USA,54,1471033.5
+117,male,Val Fitch,1923,USA,1980,2,2942067,Physics,Princeton University,USA,57,1471033.5
+255,male,Walter Gilbert,1932,USA,1980,4,2942067,Chemistry,"Harvard University, Biological Laboratories",USA,48,735516.75
+119,male,Arthur L. Schawlow,1921,USA,1981,4,2982813,Physics,Stanford University,USA,60,745703.25
+423,male,David H. Hubel,1926,Canada,1981,4,2982813,Physiology or Medicine,Harvard Medical School,USA,55,745703.25
+658,male,Elias Canetti,1905,Bulgaria,1981,1,2982813,Literature,,,76,2982813.0
+695,male,James Tobin,1918,USA,1981,1,2982813,Economic Sciences,Yale University,USA,63,2982813.0
+120,male,Kai M. Siegbahn,1918,Sweden,1981,2,2982813,Physics,Uppsala University,Sweden,63,1491406.5
+257,male,Kenichi Fukui,1918,Japan,1981,2,2982813,Chemistry,Kyoto University,Japan,63,1491406.5
+118,male,Nicolaas Bloembergen,1920,the Netherlands,1981,4,2982813,Physics,Harvard University,USA,61,745703.25
+258,male,Roald Hoffmann,1937,Ukraine,1981,2,2982813,Chemistry,Cornell University,USA,44,1491406.5
+422,male,Roger W. Sperry,1913,USA,1981,2,2982813,Physiology or Medicine,California Institute of Technology (Caltech),USA,68,1491406.5
+424,male,Torsten N. Wiesel,1924,Sweden,1981,4,2982813,Physiology or Medicine,Harvard Medical School,USA,57,745703.25
+259,male,Aaron Klug,1926,Lithuania,1982,1,3158777,Chemistry,MRC Laboratory of Molecular Biology,United Kingdom,56,3158777.0
+544,male,Alfonso García Robles,1911,Mexico,1982,2,3158777,Peace,,,71,1579388.5
+543,female,Alva Myrdal,1902,Sweden,1982,2,3158777,Peace,,,80,1579388.5
+426,male,Bengt I. Samuelsson,1934,Sweden,1982,3,3158777,Physiology or Medicine,Karolinska Institutet,Sweden,48,1052925.6666666667
+659,male,Gabriel García Márquez,1927,Colombia,1982,1,3158777,Literature,,,55,3158777.0
+696,male,George J. Stigler,1911,USA,1982,1,3158777,Economic Sciences,University of Chicago,USA,71,3158777.0
+427,male,John R. Vane,1927,United Kingdom,1982,3,3158777,Physiology or Medicine,The Wellcome Research Laboratories,United Kingdom,55,1052925.6666666667
+121,male,Kenneth G. Wilson,1936,USA,1982,1,3158777,Physics,Cornell University,USA,46,3158777.0
+425,male,Sune K. Bergström,1916,Sweden,1982,3,3158777,Physiology or Medicine,Karolinska Institutet,Sweden,66,1052925.6666666667
+428,female,Barbara McClintock,1902,USA,1983,1,3782695,Physiology or Medicine,Cold Spring Harbor Laboratory,USA,81,3782695.0
+697,male,Gerard Debreu,1921,France,1983,1,3782695,Economic Sciences,University of California,USA,62,3782695.0
+260,male,Henry Taube,1915,Canada,1983,1,3782695,Chemistry,Stanford University,USA,68,3782695.0
+545,male,Lech Walesa,1943,Poland,1983,1,3782695,Peace,,,40,3782695.0
+122,male,Subramanyan Chandrasekhar,1910,Pakistan,1983,2,3782695,Physics,University of Chicago,USA,73,1891347.5
+123,male,William A. Fowler,1911,USA,1983,2,3782695,Physics,California Institute of Technology (Caltech),USA,72,1891347.5
+660,male,William Golding,1911,United Kingdom,1983,1,3782695,Literature,,,72,3782695.0
+261,male,Bruce Merrifield,1921,USA,1984,1,3850672,Chemistry,Rockefeller University,USA,63,3850672.0
+124,male,Carlo Rubbia,1934,Italy,1984,2,3850672,Physics,CERN,Switzerland,50,1925336.0
+431,male,César Milstein,1927,Argentina,1984,3,3850672,Physiology or Medicine,MRC Laboratory of Molecular Biology,United Kingdom,57,1283557.3333333333
+546,male,Desmond Tutu,1931,South Africa,1984,1,3850672,Peace,,,53,3850672.0
+430,male,Georges J.F. Köhler,1946,Germany,1984,3,3850672,Physiology or Medicine,Basel Institute for Immunology,Switzerland,38,1283557.3333333333
+661,male,Jaroslav Seifert,1901,Czech Republic,1984,1,3850672,Literature,,,83,3850672.0
+429,male,Niels K. Jerne,1911,United Kingdom,1984,3,3850672,Physiology or Medicine,Basel Institute for Immunology,Switzerland,73,1283557.3333333333
+698,male,Richard Stone,1913,United Kingdom,1984,1,3850672,Economic Sciences,University of Cambridge,United Kingdom,71,3850672.0
+125,male,Simon van der Meer,1925,the Netherlands,1984,2,3850672,Physics,CERN,Switzerland,59,1925336.0
+662,male,Claude Simon,1913,Madagascar,1985,1,3913667,Literature,,,72,3913667.0
+699,male,Franco Modigliani,1918,Italy,1985,1,3913667,Economic Sciences,Massachusetts Institute of Technology (MIT),USA,67,3913667.0
+262,male,Herbert A. Hauptman,1917,USA,1985,2,3913667,Chemistry,The Medical Foundation of Buffalo,USA,68,1956833.5
+263,male,Jerome Karle,1918,USA,1985,2,3913667,Chemistry,US Naval Research Laboratory,USA,67,1956833.5
+433,male,Joseph L. Goldstein,1940,USA,1985,2,3913667,Physiology or Medicine,University of Texas Southwestern Medical Center at Dallas,USA,45,1956833.5
+126,male,Klaus von Klitzing,1943,Poland,1985,1,3913667,Physics,Max-Planck-Institut für Festkörperforschung,Germany,42,3913667.0
+432,male,Michael S. Brown,1941,USA,1985,2,3913667,Physiology or Medicine,University of Texas Southwestern Medical Center at Dallas,USA,44,1956833.5
+264,male,Dudley R. Herschbach,1932,USA,1986,3,4172678,Chemistry,Harvard University,USA,54,1390892.6666666667
+548,male,Elie Wiesel,1928,Romania,1986,1,4172678,Peace,,,58,4172678.0
+127,male,Ernst Ruska,1906,Germany,1986,2,4172678,Physics,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Germany,80,2086339.0
+128,male,Gerd Binnig,1947,Germany,1986,4,4172678,Physics,IBM Zurich Research Laboratory,Switzerland,39,1043169.5
+129,male,Heinrich Rohrer,1933,Switzerland,1986,4,4172678,Physics,IBM Zurich Research Laboratory,Switzerland,53,1043169.5
+700,male,James M. Buchanan Jr.,1919,USA,1986,1,4172678,Economic Sciences,Center for Study of Public Choice,USA,67,4172678.0
+266,male,John C. Polanyi,1929,Germany,1986,3,4172678,Chemistry,University of Toronto,Canada,57,1390892.6666666667
+435,female,Rita Levi-Montalcini,1909,Italy,1986,2,4172678,Physiology or Medicine,Institute of Cell Biology of the C.N.R.,Italy,77,2086339.0
+434,male,Stanley Cohen,1922,USA,1986,2,4172678,Physiology or Medicine,Vanderbilt University School of Medicine,USA,64,2086339.0
+663,male,Wole Soyinka,1934,Nigeria,1986,1,4172678,Literature,,,52,4172678.0
+265,male,Yuan T. Lee,1936,Taiwan,1986,3,4172678,Chemistry,University of California,USA,50,1390892.6666666667
+269,male,Charles J. Pedersen,1904,South Korea,1987,3,4352280,Chemistry,Du Pont,USA,83,1450760.0
+267,male,Donald J. Cram,1919,USA,1987,3,4352280,Chemistry,University of California,USA,68,1450760.0
+130,male,J. Georg Bednorz,1950,Germany,1987,2,4352280,Physics,IBM Zurich Research Laboratory,Switzerland,37,2176140.0
+268,male,Jean-Marie Lehn,1939,France,1987,3,4352280,Chemistry,Université Louis Pasteur,France,48,1450760.0
+664,male,Joseph Brodsky,1940,Russia,1987,1,4352280,Literature,,,47,4352280.0
+131,male,K. Alex Müller,1927,Switzerland,1987,2,4352280,Physics,IBM Zurich Research Laboratory,Switzerland,60,2176140.0
+549,male,Oscar Arias Sánchez,1940,Costa Rica,1987,1,4352280,Peace,,,47,4352280.0
+701,male,Robert M. Solow,1924,USA,1987,1,4352280,Economic Sciences,Massachusetts Institute of Technology (MIT),USA,63,4352280.0
+436,male,Susumu Tonegawa,1939,Japan,1987,1,4352280,Physiology or Medicine,Massachusetts Institute of Technology (MIT),USA,48,4352280.0
+439,male,George H. Hitchings,1905,USA,1988,3,4729931,Physiology or Medicine,Wellcome Research Laboratories,USA,83,1576643.6666666667
+438,female,Gertrude B. Elion,1918,USA,1988,3,4729931,Physiology or Medicine,Wellcome Research Laboratories,USA,70,1576643.6666666667
+272,male,Hartmut Michel,1948,Germany,1988,3,4729931,Chemistry,Max-Planck-Institut für Biophysik,Germany,40,1576643.6666666667
+134,male,Jack Steinberger,1921,Germany,1988,3,4729931,Physics,CERN,Switzerland,67,1576643.6666666667
+270,male,Johann Deisenhofer,1943,Germany,1988,3,4729931,Chemistry,University of Texas Southwestern Medical Center at Dallas,USA,45,1576643.6666666667
+132,male,Leon M. Lederman,1922,USA,1988,3,4729931,Physics,Fermi National Accelerator Laboratory,USA,66,1576643.6666666667
+702,male,Maurice Allais,1911,France,1988,1,4729931,Economic Sciences,École Nationale Supérieur des Mines de Paris,France,77,4729931.0
+133,male,Melvin Schwartz,1932,USA,1988,3,4729931,Physics,"Digital Pathways, Inc.",USA,56,1576643.6666666667
+665,male,Naguib Mahfouz,1911,Egypt,1988,1,4729931,Literature,,,77,4729931.0
+271,male,Robert Huber,1937,Germany,1988,3,4729931,Chemistry,Max-Planck-Institut für Biochemie,Germany,51,1576643.6666666667
+437,male,Sir James W. Black,1924,Scotland,1988,3,4729931,Physiology or Medicine,"London University, King's College Hospital Medical School",United Kingdom,64,1576643.6666666667
+666,male,Camilo José Cela,1916,Spain,1989,1,5337372,Literature,,,73,5337372.0
+136,male,Hans G. Dehmelt,1922,Germany,1989,4,5337372,Physics,University of Washington,USA,67,1334343.0
+441,male,Harold E. Varmus,1939,USA,1989,2,5337372,Physiology or Medicine,University of California School of Medicine,USA,50,2668686.0
+440,male,J. Michael Bishop,1936,USA,1989,2,5337372,Physiology or Medicine,University of California School of Medicine,USA,53,2668686.0
+135,male,Norman F. Ramsey,1915,USA,1989,2,5337372,Physics,Harvard University,USA,74,2668686.0
+273,male,Sidney Altman,1939,Canada,1989,2,5337372,Chemistry,Yale University,USA,50,2668686.0
+551,male,The 14th Dalai Lama ,1935,China,1989,1,5337372,Peace,,,54,5337372.0
+274,male,Thomas R. Cech,1947,USA,1989,2,5337372,Chemistry,University of Colorado,USA,42,2668686.0
+703,male,Trygve Haavelmo,1911,Norway,1989,1,5337372,Economic Sciences,University of Oslo,Norway,78,5337372.0
+137,male,Wolfgang Paul,1913,Germany,1989,4,5337372,Physics,University of Bonn,Germany,76,1334343.0
+443,male,E. Donnall Thomas,1920,USA,1990,2,6443882,Physiology or Medicine,Fred Hutchinson Cancer Research Center,USA,70,3221941.0
+275,male,Elias James Corey,1928,USA,1990,1,6443882,Chemistry,Harvard University,USA,62,6443882.0
+704,male,Harry M. Markowitz,1927,USA,1990,3,6443882,Economic Sciences,City University of New York,USA,63,2147960.6666666665
+139,male,Henry W. Kendall,1926,USA,1990,3,6443882,Physics,Massachusetts Institute of Technology (MIT),USA,64,2147960.6666666665
+138,male,Jerome I. Friedman,1930,USA,1990,3,6443882,Physics,Massachusetts Institute of Technology (MIT),USA,60,2147960.6666666665
+442,male,Joseph E. Murray,1919,USA,1990,2,6443882,Physiology or Medicine,Brigham and Women's Hospital,USA,71,3221941.0
+705,male,Merton H. Miller,1923,USA,1990,3,6443882,Economic Sciences,University of Chicago,USA,67,2147960.6666666665
+552,male,Mikhail Gorbachev,1931,Russia,1990,1,6443882,Peace,,,59,6443882.0
+667,male,Octavio Paz,1914,Mexico,1990,1,6443882,Literature,,,76,6443882.0
+140,male,Richard E. Taylor,1929,Canada,1990,3,6443882,Physics,Stanford University,USA,61,2147960.6666666665
+706,male,William F. Sharpe,1934,USA,1990,3,6443882,Economic Sciences,Stanford University,USA,56,2147960.6666666665
+553,female,Aung San Suu Kyi ,1945,Myanmar,1991,1,8831149,Peace,,,46,8831149.0
+445,male,Bert Sakmann,1942,Germany,1991,2,8831149,Physiology or Medicine,Max-Planck-Institut für medizinische Forschung,Germany,49,4415574.5
+444,male,Erwin Neher,1944,Germany,1991,2,8831149,Physiology or Medicine,Max-Planck-Institut für Biophysikalische Chemie,Germany,47,4415574.5
+668,female,Nadine Gordimer,1923,South Africa,1991,1,8831149,Literature,,,68,8831149.0
+141,male,Pierre-Gilles de Gennes,1932,France,1991,1,8831149,Physics,Collège de France,France,59,8831149.0
+276,male,Richard R. Ernst,1933,Switzerland,1991,1,8831149,Chemistry,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,58,8831149.0
+707,male,Ronald H. Coase,1910,United Kingdom,1991,1,8831149,Economic Sciences,University of Chicago,USA,81,8831149.0
+669,male,Derek Walcott,1930,Saint Lucia,1992,1,9350791,Literature,,,62,9350791.0
+446,male,Edmond H. Fischer,1920,China,1992,2,9350791,Physiology or Medicine,University of Washington,USA,72,4675395.5
+447,male,Edwin G. Krebs,1918,USA,1992,2,9350791,Physiology or Medicine,University of Washington,USA,74,4675395.5
+708,male,Gary Becker,1930,USA,1992,1,9350791,Economic Sciences,University of Chicago,USA,62,9350791.0
+142,male,Georges Charpak,1924,Poland,1992,1,9350791,Physics,École Supérieure de Physique et Chimie,France,68,9350791.0
+554,female,Rigoberta Menchú Tum,1959,Guatemala,1992,1,9350791,Peace,,,33,9350791.0
+277,male,Rudolph A. Marcus,1923,Canada,1992,1,9350791,Chemistry,California Institute of Technology (Caltech),USA,69,9350791.0
+710,male,Douglass C. North,1920,USA,1993,2,9208279,Economic Sciences,Washington University,USA,73,4604139.5
+556,male,F.W. de Klerk,1936,South Africa,1993,2,9208279,Peace,,,57,4604139.5
+144,male,Joseph H. Taylor Jr.,1941,USA,1993,2,9208279,Physics,Princeton University,USA,52,4604139.5
+278,male,Kary B. Mullis,1944,USA,1993,2,9208279,Chemistry,,,49,4604139.5
+279,male,Michael Smith,1932,United Kingdom,1993,2,9208279,Chemistry,University of British Columbia,Canada,61,4604139.5
+555,male,Nelson Mandela,1918,South Africa,1993,2,9208279,Peace,,,75,4604139.5
+449,male,Phillip A. Sharp,1944,USA,1993,2,9208279,Physiology or Medicine,"Massachusetts Institute of Technology (MIT), Center for Cancer Research",USA,49,4604139.5
+448,male,Richard J. Roberts,1943,United Kingdom,1993,2,9208279,Physiology or Medicine,New England Biolabs,USA,50,4604139.5
+709,male,Robert W. Fogel,1927,USA,1993,2,9208279,Economic Sciences,University of Chicago,USA,66,4604139.5
+143,male,Russell A. Hulse,1950,USA,1993,2,9208279,Physics,Princeton University,USA,43,4604139.5
+670,female,Toni Morrison,1931,USA,1993,1,9208279,Literature,,,62,9208279.0
+450,male,Alfred G. Gilman,1941,USA,1994,2,9417195,Physiology or Medicine,University of Texas Southwestern Medical Center at Dallas,USA,53,4708597.5
+145,male,Bertram N. Brockhouse,1918,Canada,1994,2,9417195,Physics,McMaster University,Canada,76,4708597.5
+146,male,Clifford G. Shull,1915,USA,1994,2,9417195,Physics,Massachusetts Institute of Technology (MIT),USA,79,4708597.5
+280,male,George A. Olah,1927,Hungary,1994,1,9417195,Chemistry,University of Southern California,USA,67,9417195.0
+711,male,John C. Harsanyi,1920,Hungary,1994,3,9417195,Economic Sciences,University of California,USA,74,3139065.0
+712,male,John F. Nash Jr.,1928,USA,1994,3,9417195,Economic Sciences,Princeton University,USA,66,3139065.0
+671,male,Kenzaburo Oe,1935,Japan,1994,1,9417195,Literature,,,59,9417195.0
+451,male,Martin Rodbell,1925,USA,1994,2,9417195,Physiology or Medicine,National Institute of Environmental Health Sciences,USA,69,4708597.5
+713,male,Reinhard Selten,1930,Poland,1994,3,9417195,Economic Sciences,Rheinische Friedrich-Wilhelms-Universität,Germany,64,3139065.0
+558,male,Shimon Peres,1923,Belarus,1994,3,9417195,Peace,,,71,3139065.0
+557,male,Yasser Arafat,1929,Egypt,1994,3,9417195,Peace,,,65,3139065.0
+559,male,Yitzhak Rabin,1922,Israel,1994,3,9417195,Peace,,,72,3139065.0
+453,female,Christiane Nüsslein-Volhard,1942,Germany,1995,3,9446598,Physiology or Medicine,Max-Planck-Institut für Entwicklungsbiologie,Germany,53,3148866.0
+452,male,Edward B. Lewis,1918,USA,1995,3,9446598,Physiology or Medicine,California Institute of Technology (Caltech),USA,77,3148866.0
+454,male,Eric F. Wieschaus,1947,USA,1995,3,9446598,Physiology or Medicine,Princeton University,USA,48,3148866.0
+283,male,F. Sherwood Rowland,1927,USA,1995,3,9446598,Chemistry,University of California,USA,68,3148866.0
+148,male,Frederick Reines,1918,USA,1995,2,9446598,Physics,University of California,USA,77,4723299.0
+560,male,Joseph Rotblat,1908,Poland,1995,2,9446598,Peace,,,87,4723299.0
+282,male,Mario J. Molina,1943,Mexico,1995,3,9446598,Chemistry,Massachusetts Institute of Technology (MIT),USA,52,3148866.0
+147,male,Martin L. Perl,1927,USA,1995,2,9446598,Physics,Stanford University,USA,68,4723299.0
+281,male,Paul J. Crutzen,1933,the Netherlands,1995,3,9446598,Chemistry,Max-Planck-Institut für Chemie,Germany,62,3148866.0
+714,male,Robert E. Lucas Jr.,1937,USA,1995,1,9446598,Economic Sciences,University of Chicago,USA,58,9446598.0
+672,male,Seamus Heaney,1939,Northern Ireland,1995,1,9446598,Literature,,,56,9446598.0
+562,male,Carlos Filipe Ximenes Belo,1948,East Timor,1996,2,9662517,Peace,,,48,4831258.5
+149,male,David M. Lee,1931,USA,1996,3,9662517,Physics,Cornell University,USA,65,3220839.0
+150,male,Douglas D. Osheroff,1945,USA,1996,3,9662517,Physics,Stanford University,USA,51,3220839.0
+715,male,James A. Mirrlees,1936,Scotland,1996,2,9662517,Economic Sciences,University of Cambridge,United Kingdom,60,4831258.5
+563,male,José Ramos-Horta,1949,East Timor,1996,2,9662517,Peace,,,47,4831258.5
+455,male,Peter C. Doherty,1940,Australia,1996,2,9662517,Physiology or Medicine,St. Jude Children's Research Hospital,USA,56,4831258.5
+286,male,Richard E. Smalley,1943,USA,1996,3,9662517,Chemistry,Rice University,USA,53,3220839.0
+151,male,Robert C. Richardson,1937,USA,1996,3,9662517,Physics,Cornell University,USA,59,3220839.0
+284,male,Robert F. Curl Jr.,1933,USA,1996,3,9662517,Chemistry,Rice University,USA,63,3220839.0
+456,male,Rolf M. Zinkernagel,1944,Switzerland,1996,2,9662517,Physiology or Medicine,"University of Zurich, Institute of Experimental Immunology",Switzerland,52,4831258.5
+285,male,Sir Harold Kroto,1939,United Kingdom,1996,3,9662517,Chemistry,University of Sussex,United Kingdom,57,3220839.0
+716,male,William Vickrey,1914,Canada,1996,2,9662517,Economic Sciences,Columbia University,USA,82,4831258.5
+673,female,Wislawa Szymborska,1923,Poland,1996,1,9662517,Literature,,,73,9662517.0
+153,male,Claude Cohen-Tannoudji,1933,Algeria,1997,3,9746426,Physics,Collège de France,France,64,3248808.6666666665
+674,male,Dario Fo,1926,Italy,1997,1,9746426,Literature,,,71,9746426.0
+289,male,Jens C. Skou,1918,Denmark,1997,2,9746426,Chemistry,Aarhus University,Denmark,79,4873213.0
+565,female,Jody Williams,1950,USA,1997,2,9746426,Peace,,,47,4873213.0
+288,male,John E. Walker,1941,United Kingdom,1997,4,9746426,Chemistry,MRC Laboratory of Molecular Biology,United Kingdom,56,2436606.5
+718,male,Myron Scholes,1941,Canada,1997,2,9746426,Economic Sciences,Long Term Capital Management,USA,56,4873213.0
+287,male,Paul D. Boyer,1918,USA,1997,4,9746426,Chemistry,University of California,USA,79,2436606.5
+717,male,Robert C. Merton,1944,USA,1997,2,9746426,Economic Sciences,Harvard University,USA,53,4873213.0
+457,male,Stanley B. Prusiner,1942,USA,1997,1,9746426,Physiology or Medicine,University of California School of Medicine,USA,55,9746426.0
+152,male,Steven Chu,1948,USA,1997,3,9746426,Physics,Stanford University,USA,49,3248808.6666666665
+154,male,William D. Phillips,1948,USA,1997,3,9746426,Physics,National Institute of Standards and Technology,USA,49,3248808.6666666665
+719,male,Amartya Sen,1933,India,1998,1,9889843,Economic Sciences,Trinity College,United Kingdom,65,9889843.0
+157,male,Daniel C. Tsui,1939,China,1998,3,9889843,Physics,Princeton University,USA,59,3296614.3333333335
+567,male,David Trimble,1944,Northern Ireland,1998,2,9889843,Peace,,,54,4944921.5
+460,male,Ferid Murad,1936,USA,1998,3,9889843,Physiology or Medicine,University of Texas Medical School at Houston,USA,62,3296614.3333333335
+156,male,Horst L. Störmer,1949,Germany,1998,3,9889843,Physics,Columbia University,USA,49,3296614.3333333335
+566,male,John Hume,1937,Northern Ireland,1998,2,9889843,Peace,,,61,4944921.5
+291,male,John Pople,1925,United Kingdom,1998,2,9889843,Chemistry,Northwestern University,USA,73,4944921.5
+675,male,José Saramago,1922,Portugal,1998,1,9889843,Literature,,,76,9889843.0
+459,male,Louis J. Ignarro,1941,USA,1998,3,9889843,Physiology or Medicine,University of California School of Medicine,USA,57,3296614.3333333335
+155,male,Robert B. Laughlin,1950,USA,1998,3,9889843,Physics,Stanford University,USA,48,3296614.3333333335
+458,male,Robert F. Furchgott,1916,USA,1998,3,9889843,Physiology or Medicine,SUNY Health Science Center,USA,82,3296614.3333333335
+290,male,Walter Kohn,1923,Austria,1998,2,9889843,Chemistry,University of California,USA,75,4944921.5
+292,male,Ahmed Zewail,1946,Egypt,1999,1,10231411,Chemistry,California Institute of Technology (Caltech),USA,53,10231411.0
+158,male,Gerardus 't Hooft,1946,the Netherlands,1999,2,10231411,Physics,Utrecht University,the Netherlands,53,5115705.5
+461,male,Günter Blobel,1936,Poland,1999,1,10231411,Physiology or Medicine,Rockefeller University,USA,63,10231411.0
+676,male,Günter Grass,1927,Poland,1999,1,10231411,Literature,,,72,10231411.0
+159,male,Martinus J.G. Veltman,1931,the Netherlands,1999,2,10231411,Physics,,,68,5115705.5
+720,male,Robert Mundell,1932,Canada,1999,1,10231411,Economic Sciences,Columbia University,USA,67,10231411.0
+729,male,Alan Heeger,1936,USA,2000,3,11538617,Chemistry,University of California,USA,64,3846205.6666666665
+730,male,Alan MacDiarmid,1927,New Zealand,2000,3,11538617,Chemistry,University of Pennsylvania,USA,73,3846205.6666666665
+722,male,Arvid Carlsson,1923,Sweden,2000,3,11538617,Physiology or Medicine,Göteborg University,Sweden,77,3846205.6666666665
+733,male,Daniel L. McFadden,1937,USA,2000,2,11538617,Economic Sciences,University of California,USA,63,5769308.5
+724,male,Eric Kandel,1929,Austria,2000,3,11538617,Physiology or Medicine,Columbia University,USA,71,3846205.6666666665
+734,male,Gao Xingjian,1940,China,2000,1,11538617,Literature,,,60,11538617.0
+727,male,Herbert Kroemer,1928,Germany,2000,4,11538617,Physics,University of California,USA,72,2884654.25
+731,male,Hideki Shirakawa,1936,Japan,2000,3,11538617,Chemistry,University of Tsukuba,Japan,64,3846205.6666666665
+728,male,Jack Kilby,1923,USA,2000,2,11538617,Physics,Texas Instruments,USA,77,5769308.5
+732,male,James J. Heckman,1944,USA,2000,2,11538617,Economic Sciences,University of Chicago,USA,56,5769308.5
+725,male,Kim Dae-jung,1925,South Korea,2000,1,11538617,Peace,,,75,11538617.0
+723,male,Paul Greengard,1925,USA,2000,3,11538617,Physiology or Medicine,Rockefeller University,USA,75,3846205.6666666665
+726,male,Zhores Alferov,1930,Belarus,2000,4,11538617,Physics,A.F. Ioffe Physico-Technical Institute,Russia,70,2884654.25
+745,male,A. Michael Spence,1943,USA,2001,3,12518033,Economic Sciences,Stanford University,USA,58,4172677.6666666665
+743,male,Barry Sharpless,1941,USA,2001,2,12518033,Chemistry,The Scripps Research Institute,USA,60,6259016.5
+740,male,Carl Wieman,1951,USA,2001,3,12518033,Physics,"University of Colorado, JILA",USA,50,4172677.6666666665
+738,male,Eric Cornell,1961,USA,2001,3,12518033,Physics,"University of Colorado, JILA",USA,40,4172677.6666666665
+744,male,George A. Akerlof,1940,USA,2001,3,12518033,Economic Sciences,University of California,USA,61,4172677.6666666665
+746,male,Joseph E. Stiglitz,1943,USA,2001,3,12518033,Economic Sciences,Columbia University,USA,58,4172677.6666666665
+749,male,Kofi Annan,1938,Ghana,2001,2,12518033,Peace,,,63,6259016.5
+735,male,Leland Hartwell,1939,USA,2001,3,12518033,Physiology or Medicine,Fred Hutchinson Cancer Research Center,USA,62,4172677.6666666665
+742,male,Ryoji Noyori,1938,Japan,2001,4,12518033,Chemistry,Nagoya University,Japan,63,3129508.25
+737,male,Sir Paul Nurse,1949,United Kingdom,2001,3,12518033,Physiology or Medicine,Imperial Cancer Research Fund,United Kingdom,52,4172677.6666666665
+736,male,Tim Hunt,1943,United Kingdom,2001,3,12518033,Physiology or Medicine,Imperial Cancer Research Fund,United Kingdom,58,4172677.6666666665
+747,male,V. S. Naipaul,1932,Trinidad and Tobago,2001,1,12518033,Literature,,,69,12518033.0
+741,male,William Knowles,1917,USA,2001,4,12518033,Chemistry,,,84,3129508.25
+739,male,Wolfgang Ketterle,1957,Germany,2001,3,12518033,Physics,Massachusetts Institute of Technology (MIT),USA,44,4172677.6666666665
+759,male,Daniel Kahneman,1934,Israel,2002,2,12252888,Economic Sciences,Princeton University,USA,68,6126444.0
+751,male,H. Robert Horvitz,1947,USA,2002,3,12252888,Physiology or Medicine,Massachusetts Institute of Technology (MIT),USA,55,4084296.0
+761,male,Imre Kertész,1929,Hungary,2002,1,12252888,Literature,,,73,12252888.0
+762,male,Jimmy Carter,1924,USA,2002,1,12252888,Peace,,,78,12252888.0
+756,male,John B. Fenn,1917,USA,2002,4,12252888,Chemistry,Virginia Commonwealth University,USA,85,3063222.0
+752,male,John E. Sulston,1942,United Kingdom,2002,3,12252888,Physiology or Medicine,The Wellcome Trust Sanger Institute,United Kingdom,60,4084296.0
+757,male,Koichi Tanaka,1959,Japan,2002,4,12252888,Chemistry,Shimadzu Corp.,Japan,43,3063222.0
+758,male,Kurt Wüthrich,1938,Switzerland,2002,2,12252888,Chemistry,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,64,6126444.0
+754,male,Masatoshi Koshiba,1926,Japan,2002,4,12252888,Physics,University of Tokyo,Japan,76,3063222.0
+753,male,Raymond Davis Jr.,1914,USA,2002,4,12252888,Physics,University of Pennsylvania,USA,88,3063222.0
+755,male,Riccardo Giacconi,1931,Italy,2002,2,12252888,Physics,Associated Universities Inc.,USA,71,6126444.0
+750,male,Sydney Brenner,1927,South Africa,2002,3,12252888,Physiology or Medicine,The Molecular Sciences Institute,USA,75,4084296.0
+760,male,Vernon L. Smith,1927,USA,2002,2,12252888,Economic Sciences,George Mason University,USA,75,6126444.0
+766,male,Alexei Abrikosov,1928,Russia,2003,3,12021411,Physics,Argonne National Laboratory,USA,75,4007137.0
+768,male,Anthony J. Leggett,1938,United Kingdom,2003,3,12021411,Physics,University of Illinois,USA,65,4007137.0
+772,male,Clive W.J. Granger,1934,United Kingdom,2003,2,12021411,Economic Sciences,University of California,USA,69,6010705.5
+763,male,J. M. Coetzee,1940,South Africa,2003,1,12021411,Literature,,,63,12021411.0
+764,male,Paul C. Lauterbur,1929,USA,2003,2,12021411,Physiology or Medicine,University of Illinois,USA,74,6010705.5
+769,male,Peter Agre,1949,USA,2003,2,12021411,Chemistry,Johns Hopkins University School of Medicine,USA,54,6010705.5
+771,male,Robert F. Engle III,1942,USA,2003,2,12021411,Economic Sciences,New York University,USA,61,6010705.5
+770,male,Roderick MacKinnon,1956,USA,2003,2,12021411,Chemistry,Rockefeller University,USA,47,6010705.5
+773,female,Shirin Ebadi,1947,Iran,2003,1,12021411,Peace,,,56,12021411.0
+765,male,Sir Peter Mansfield,1933,United Kingdom,2003,2,12021411,Physiology or Medicine,"University of Nottingham, School of Physics and Astronomy",United Kingdom,70,6010705.5
+767,male,Vitaly L. Ginzburg,1916,Russia,2003,3,12021411,Physics,P.N. Lebedev Physical Institute,Russia,87,4007137.0
+779,male,Aaron Ciechanover,1947,Israel,2004,3,11976161,Chemistry,Technion - Israel Institute of Technology,Israel,57,3992053.6666666665
+780,male,Avram Hershko,1937,Hungary,2004,3,11976161,Chemistry,Technion - Israel Institute of Technology,Israel,67,3992053.6666666665
+776,male,David J. Gross,1941,USA,2004,3,11976161,Physics,"University of California, Kavli Institute for Theoretical Physics",USA,63,3992053.6666666665
+787,male,Edward C. Prescott,1940,USA,2004,2,11976161,Economic Sciences,Arizona State University,USA,64,5988080.5
+782,female,Elfriede Jelinek,1946,Austria,2004,1,11976161,Literature,,,58,11976161.0
+786,male,Finn E. Kydland,1943,Norway,2004,2,11976161,Economic Sciences,Carnegie Mellon University,USA,61,5988080.5
+778,male,Frank Wilczek,1951,USA,2004,3,11976161,Physics,Massachusetts Institute of Technology (MIT),USA,53,3992053.6666666665
+777,male,H. David Politzer,1949,USA,2004,3,11976161,Physics,California Institute of Technology (Caltech),USA,55,3992053.6666666665
+781,male,Irwin Rose,1926,USA,2004,3,11976161,Chemistry,University of California,USA,78,3992053.6666666665
+775,female,Linda B. Buck,1947,USA,2004,2,11976161,Physiology or Medicine,Fred Hutchinson Cancer Research Center,USA,57,5988080.5
+774,male,Richard Axel,1946,USA,2004,2,11976161,Physiology or Medicine,Columbia University,USA,58,5988080.5
+783,female,Wangari Maathai,1940,Kenya,2004,1,11976161,Peace,,,64,11976161.0
+789,male,Barry J. Marshall,1951,Australia,2005,2,11923798,Physiology or Medicine,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre",Australia,54,5961899.0
+801,male,Harold Pinter,1930,United Kingdom,2005,1,11923798,Literature,,,75,11923798.0
+790,male,J. Robin Warren,1937,Australia,2005,2,11923798,Physiology or Medicine,,,68,5961899.0
+792,male,John L. Hall,1934,USA,2005,4,11923798,Physics,"University of Colorado, JILA",USA,71,2980949.5
+798,male,Mohamed ElBaradei,1942,Egypt,2005,2,11923798,Peace,,,63,5961899.0
+796,male,Richard R. Schrock,1945,USA,2005,3,11923798,Chemistry,Massachusetts Institute of Technology (MIT),USA,60,3974599.3333333335
+795,male,Robert H. Grubbs,1942,USA,2005,3,11923798,Chemistry,California Institute of Technology (Caltech),USA,63,3974599.3333333335
+799,male,Robert J. Aumann,1930,Germany,2005,2,11923798,Economic Sciences,"University of Jerusalem, Center for RationalityHebrew",Israel,75,5961899.0
+791,male,Roy J. Glauber,1925,USA,2005,2,11923798,Physics,Harvard University,USA,80,5961899.0
+793,male,Theodor W. Hänsch,1941,Germany,2005,4,11923798,Physics,Max-Planck-Institut für Quantenoptik,Germany,64,2980949.5
+800,male,Thomas C. Schelling,1921,USA,2005,2,11923798,Economic Sciences,"University of Maryland, Department of Economics and School of Public Policy",USA,84,5961899.0
+794,male,Yves Chauvin,1930,Belgium,2005,3,11923798,Chemistry,Institut Français du Pétrole,France,75,3974599.3333333335
+802,male,Andrew Z. Fire,1959,USA,2006,2,11762169,Physiology or Medicine,Stanford University School of Medicine,USA,47,5881084.5
+803,male,Craig C. Mello,1960,USA,2006,2,11762169,Physiology or Medicine,University of Massachusetts Medical School,USA,46,5881084.5
+807,male,Edmund S. Phelps,1933,USA,2006,1,11762169,Economic Sciences,Columbia University,USA,73,11762169.0
+805,male,George F. Smoot,1945,USA,2006,2,11762169,Physics,University of California,USA,61,5881084.5
+804,male,John C. Mather,1946,USA,2006,2,11762169,Physics,NASA Goddard Space Flight Center,USA,60,5881084.5
+809,male,Muhammad Yunus,1940,Bangladesh,2006,2,11762169,Peace,,,66,5881084.5
+808,male,Orhan Pamuk,1952,Turkey,2006,1,11762169,Literature,,,54,11762169.0
+806,male,Roger D. Kornberg,1947,USA,2006,1,11762169,Chemistry,Stanford University,USA,59,11762169.0
+819,male,Al Gore,1948,USA,2007,2,11506932,Peace,,,59,5753466.0
+814,male,Albert Fert,1938,France,2007,2,11506932,Physics,Universit&eacute; Paris-Sud,France,69,5753466.0
+817,female,Doris Lessing,1919,Iran,2007,1,11506932,Literature,,,88,11506932.0
+821,male,Eric S. Maskin,1950,USA,2007,3,11506932,Economic Sciences,Institute for Advanced Study,USA,57,3835644.0
+816,male,Gerhard Ertl,1936,Germany,2007,1,11506932,Chemistry,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Germany,71,11506932.0
+820,male,Leonid Hurwicz,1917,Russia,2007,3,11506932,Economic Sciences,University of Minnesota,USA,90,3835644.0
+811,male,Mario R. Capecchi,1937,Italy,2007,3,11506932,Physiology or Medicine,University of Utah,USA,70,3835644.0
+813,male,Oliver Smithies,1925,United Kingdom,2007,3,11506932,Physiology or Medicine,University of North Carolina,USA,82,3835644.0
+815,male,Peter Grünberg,1939,Czech Republic,2007,2,11506932,Physics,Forschungszentrum J&uuml;lich,Germany,68,5753466.0
+822,male,Roger B. Myerson,1951,USA,2007,3,11506932,Economic Sciences,University of Chicago,USA,56,3835644.0
+812,male,Sir Martin J. Evans,1941,United Kingdom,2007,3,11506932,Physiology or Medicine,Cardiff University,United Kingdom,66,3835644.0
+824,female,Françoise Barré-Sinoussi,1947,France,2008,4,11124709,Physiology or Medicine,"Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur",France,61,2781177.25
+823,male,Harald zur Hausen,1936,Germany,2008,2,11124709,Physiology or Medicine,German Cancer Research Center,Germany,72,5562354.5
+832,male,Jean-Marie Gustave Le Clézio,1940,France,2008,1,11124709,Literature,,,68,11124709.0
+825,male,Luc Montagnier,1932,France,2008,4,11124709,Physiology or Medicine,World Foundation for AIDS Research and Prevention,France,76,2781177.25
+827,male,Makoto Kobayashi,1944,Japan,2008,4,11124709,Physics,High Energy Accelerator Research Organization (KEK),Japan,64,2781177.25
+830,male,Martin Chalfie,1947,USA,2008,3,11124709,Chemistry,Columbia University,USA,61,3708236.3333333335
+833,male,Martti Ahtisaari,1937,Finland,2008,1,11124709,Peace,,,71,11124709.0
+829,male,Osamu Shimomura,1928,Japan,2008,3,11124709,Chemistry,Marine Biological Laboratory (MBL),USA,80,3708236.3333333335
+834,male,Paul Krugman,1953,USA,2008,1,11124709,Economic Sciences,Princeton University,USA,55,11124709.0
+831,male,Roger Y. Tsien,1952,USA,2008,3,11124709,Chemistry,University of California,USA,56,3708236.3333333335
+828,male,Toshihide Maskawa,1940,Japan,2008,4,11124709,Physics,Kyoto Sangyo University,Japan,68,2781177.25
+826,male,Yoichiro Nambu,1921,Japan,2008,2,11124709,Physics,"Enrico Fermi Institute, University of Chicago",USA,87,5562354.5
+843,female,Ada E. Yonath,1939,Israel,2009,3,11157218,Chemistry,Weizmann Institute of Science,Israel,70,3719072.6666666665
+845,male,Barack H. Obama,1961,USA,2009,1,11157218,Peace,,,48,11157218.0
+836,female,Carol W. Greider,1961,USA,2009,3,11157218,Physiology or Medicine,Johns Hopkins University School of Medicine,USA,48,3719072.6666666665
+838,male,Charles K. Kao,1933,China,2009,2,11157218,Physics,Standard Telecommunication Laboratories,United Kingdom,76,5578609.0
+846,female,Elinor Ostrom,1933,USA,2009,2,11157218,Economic Sciences,Indiana University,USA,76,5578609.0
+835,female,Elizabeth H. Blackburn,1948,Australia,2009,3,11157218,Physiology or Medicine,University of California,USA,61,3719072.6666666665
+840,male,George E. Smith,1930,USA,2009,4,11157218,Physics,Bell Laboratories,USA,79,2789304.5
+844,female,Herta Müller,1953,Romania,2009,1,11157218,Literature,,,56,11157218.0
+837,male,Jack W. Szostak,1952,United Kingdom,2009,3,11157218,Physiology or Medicine,Harvard Medical School,USA,57,3719072.6666666665
+847,male,Oliver E. Williamson,1932,USA,2009,2,11157218,Economic Sciences,University of California,USA,77,5578609.0
+842,male,Thomas A. Steitz,1940,USA,2009,3,11157218,Chemistry,Yale University,USA,69,3719072.6666666665
+841,male,Venkatraman Ramakrishnan,1952,India,2009,3,11157218,Chemistry,MRC Laboratory of Molecular Biology,United Kingdom,57,3719072.6666666665
+839,male,Willard S. Boyle,1924,Canada,2009,4,11157218,Physics,Bell Laboratories,USA,85,2789304.5
+853,male,Akira Suzuki,1930,Japan,2010,3,11015580,Chemistry,Hokkaido University,Japan,80,3671860.0
+849,male,Andre Geim,1958,Russia,2010,2,11015580,Physics,University of Manchester,United Kingdom,52,5507790.0
+858,male,Christopher A. Pissarides,1948,Cyprus,2010,3,11015580,Economic Sciences,London School of Economics and Political Science,United Kingdom,62,3671860.0
+857,male,Dale T. Mortensen,1939,USA,2010,3,11015580,Economic Sciences,Northwestern University,USA,71,3671860.0
+852,male,Ei-ichi Negishi,1935,China,2010,3,11015580,Chemistry,Purdue University,USA,75,3671860.0
+850,male,Konstantin Novoselov,1974,Russia,2010,2,11015580,Physics,University of Manchester,United Kingdom,36,5507790.0
+855,male,Liu Xiaobo,1955,China,2010,1,11015580,Peace,,,55,11015580.0
+854,male,Mario Vargas Llosa,1936,Peru,2010,1,11015580,Literature,,,74,11015580.0
+856,male,Peter A. Diamond,1940,USA,2010,3,11015580,Economic Sciences,Massachusetts Institute of Technology (MIT),USA,70,3671860.0
+851,male,Richard F. Heck,1931,USA,2010,3,11015580,Chemistry,University of Delaware,USA,79,3671860.0
+848,male,Robert G. Edwards,1925,United Kingdom,2010,1,11015580,Physiology or Medicine,University of Cambridge,United Kingdom,85,11015580.0
+866,male,Adam G. Riess,1969,USA,2011,4,10736783,Physics,Johns Hopkins University,USA,42,2684195.75
+865,male,Brian P. Schmidt,1967,USA,2011,4,10736783,Physics,Australian National University,Australia,44,2684195.75
+861,male,Bruce A. Beutler,1957,USA,2011,4,10736783,Physiology or Medicine,University of Texas Southwestern Medical Center at Dallas,USA,54,2684195.75
+873,male,Christopher A. Sims,1942,USA,2011,2,10736783,Economic Sciences,Princeton University,USA,69,5368391.5
+867,male,Dan Shechtman,1941,Israel,2011,1,10736783,Chemistry,Technion - Israel Institute of Technology,Israel,70,10736783.0
+869,female,Ellen Johnson Sirleaf,1938,Liberia,2011,3,10736783,Peace,,,73,3578927.6666666665
+862,male,Jules A. Hoffmann,1941,Luxembourg,2011,4,10736783,Physiology or Medicine,University of Strasbourg,France,70,2684195.75
+870,female,Leymah Gbowee,1972,Liberia,2011,3,10736783,Peace,,,39,3578927.6666666665
+863,male,Ralph M. Steinman,1943,Canada,2011,2,10736783,Physiology or Medicine,Rockefeller University,USA,68,5368391.5
+864,male,Saul Perlmutter,1959,USA,2011,2,10736783,Physics,Lawrence Berkeley National Laboratory,USA,52,5368391.5
+871,female,Tawakkol Karman,1979,Yemen,2011,3,10736783,Peace,,,32,3578927.6666666665
+872,male,Thomas J. Sargent,1943,USA,2011,2,10736783,Economic Sciences,New York University,USA,68,5368391.5
+868,male,Tomas Tranströmer,1931,Sweden,2011,1,10736783,Literature,,,80,10736783.0
+882,male,Alvin E. Roth,1951,USA,2012,2,8512821,Economic Sciences,Harvard University,USA,61,4256410.5
+879,male,Brian Kobilka,1955,USA,2012,2,8512821,Chemistry,Stanford University School of Medicine,USA,57,4256410.5
+877,male,David J. Wineland,1944,USA,2012,2,8512821,Physics,National Institute of Standards and Technology,USA,68,4256410.5
+883,male,Lloyd S. Shapley,1923,USA,2012,2,8512821,Economic Sciences,University of California,USA,89,4256410.5
+880,male,Mo Yan,1955,China,2012,1,8512821,Literature,,,57,8512821.0
+878,male,Robert J. Lefkowitz,1943,USA,2012,2,8512821,Chemistry,Howard Hughes Medical Institute,,69,4256410.5
+876,male,Serge Haroche,1944,Morocco,2012,2,8512821,Physics,Collège de France,France,68,4256410.5
+875,male,Shinya Yamanaka,1962,Japan,2012,2,8512821,Physiology or Medicine,Kyoto University,Japan,50,4256410.5
+874,male,Sir John B. Gurdon,1933,United Kingdom,2012,2,8512821,Physiology or Medicine,Gurdon Institute,United Kingdom,79,4256410.5
+892,female,Alice Munro,1931,Canada,2013,1,8517568,Literature,,,82,8517568.0
+891,male,Arieh Warshel,1940,Israel,2013,3,8517568,Chemistry,University of Southern California,USA,73,2839189.3333333335
+894,male,Eugene F. Fama,1939,USA,2013,3,8517568,Economic Sciences,University of Chicago,USA,74,2839189.3333333335
+887,male,François Englert,1932,Belgium,2013,2,8517568,Physics,Université Libre de Bruxelles,Belgium,81,4258784.0
+884,male,James E. Rothman,1950,USA,2013,3,8517568,Physiology or Medicine,Yale University,USA,63,2839189.3333333335
+895,male,Lars Peter Hansen,1952,USA,2013,3,8517568,Economic Sciences,University of Chicago,USA,61,2839189.3333333335
+889,male,Martin Karplus,1930,Austria,2013,3,8517568,Chemistry,Université de Strasbourg,France,83,2839189.3333333335
+890,male,Michael Levitt,1947,South Africa,2013,3,8517568,Chemistry,Stanford University School of Medicine,USA,66,2839189.3333333335
+888,male,Peter Higgs,1929,United Kingdom,2013,2,8517568,Physics,University of Edinburgh,United Kingdom,84,4258784.0
+885,male,Randy W. Schekman,1948,USA,2013,3,8517568,Physiology or Medicine,University of California,USA,65,2839189.3333333335
+896,male,Robert J. Shiller,1946,USA,2013,3,8517568,Economic Sciences,Yale University,USA,67,2839189.3333333335
+886,male,Thomas C. Südhof,1955,Germany,2013,3,8517568,Physiology or Medicine,Stanford University,USA,58,2839189.3333333335
+905,male,Edvard I. Moser,1962,Norway,2014,4,8531844,Physiology or Medicine,Norwegian University of Science and Technology (NTNU),Norway,52,2132961.0
+909,male,Eric Betzig,1960,USA,2014,3,8531844,Chemistry,"Janelia Research Campus, Howard Hughes Medical Institute",USA,54,2843948.0
+907,male,Hiroshi Amano,1960,Japan,2014,3,8531844,Physics,Nagoya University,Japan,54,2843948.0
+906,male,Isamu Akasaki,1929,Japan,2014,3,8531844,Physics,Meijo University,Japan,85,2843948.0
+915,male,Jean Tirole,1953,France,2014,1,8531844,Economic Sciences,Toulouse School of Economics (TSE),France,61,8531844.0
+903,male,John O'Keefe,1939,USA,2014,2,8531844,Physiology or Medicine,University College,United Kingdom,75,4265922.0
+913,male,Kailash Satyarthi,1954,India,2014,2,8531844,Peace,,,60,4265922.0
+914,female,Malala Yousafzai,1997,Pakistan,2014,2,8531844,Peace,,,17,4265922.0
+904,female,May-Britt Moser,1963,Norway,2014,4,8531844,Physiology or Medicine,Norwegian University of Science and Technology (NTNU),Norway,51,2132961.0
+912,male,Patrick Modiano,1945,France,2014,1,8531844,Literature,,,69,8531844.0
+908,male,Shuji Nakamura,1954,Japan,2014,3,8531844,Physics,University of California,USA,60,2843948.0
+910,male,Stefan W. Hell,1962,Romania,2014,3,8531844,Chemistry,Max Planck Institute for Biophysical Chemistry,Germany,52,2843948.0
+911,male,William E. Moerner,1953,USA,2014,3,8531844,Chemistry,Stanford University,USA,61,2843948.0
+926,male,Angus Deaton,1945,Scotland,2015,1,8536613,Economic Sciences,Princeton University,USA,70,8536613.0
+920,male,Arthur B. McDonald,1943,Canada,2015,2,8536613,Physics,Queen's University,Canada,72,4268306.5
+923,male,Aziz Sancar,1946,Turkey,2015,3,8536613,Chemistry,University of North Carolina,USA,69,2845537.6666666665
+922,male,Paul Modrich,1946,USA,2015,3,8536613,Chemistry,Howard Hughes Medical Institute,USA,69,2845537.6666666665
+917,male,Satoshi &#332;mura,1935,Japan,2015,4,8536613,Physiology or Medicine,Kitasato University,Japan,80,2134153.25
+924,female,Svetlana Alexievich,1948,Ukraine,2015,1,8536613,Literature,,,67,8536613.0
+919,male,Takaaki Kajita,1959,Japan,2015,2,8536613,Physics,University of Tokyo,Japan,56,4268306.5
+921,male,Tomas Lindahl,1938,Sweden,2015,3,8536613,Chemistry,Francis Crick Institute,United Kingdom,77,2845537.6666666665
+918,female,Tu Youyou,1930,China,2015,2,8536613,Physiology or Medicine,China Academy of Traditional Chinese Medicine,China,85,4268306.5
+916,male,William C. Campbell,1930,Ireland,2015,4,8536613,Physiology or Medicine,Drew University,USA,85,2134153.25
+936,male,Bengt Holmström,1949,Finland,2016,2,8451577,Economic Sciences,Massachusetts Institute of Technology (MIT),USA,67,4225788.5
+933,male,Bernard L. Feringa,1951,the Netherlands,2016,3,8451577,Chemistry,University of Groningen,the Netherlands,65,2817192.3333333335
+937,male,Bob Dylan,1941,USA,2016,1,8451577,Literature,,,75,8451577.0
+928,male,David J. Thouless,1934,United Kingdom,2016,2,8451577,Physics,University of Washington,USA,82,4225788.5
+929,male,F. Duncan M. Haldane,1951,United Kingdom,2016,4,8451577,Physics,Princeton University,USA,65,2112894.25
+930,male,J. Michael Kosterlitz,1943,United Kingdom,2016,4,8451577,Physics,Brown University,USA,73,2112894.25
+931,male,Jean-Pierre Sauvage,1944,France,2016,3,8451577,Chemistry,University of Strasbourg,France,72,2817192.3333333335
+934,male,Juan Manuel Santos,1951,Colombia,2016,1,8451577,Peace,,,65,8451577.0
+935,male,Oliver Hart,1948,United Kingdom,2016,2,8451577,Economic Sciences,Harvard University,USA,68,4225788.5
+932,male,Sir J. Fraser Stoddart,1942,United Kingdom,2016,3,8451577,Chemistry,Northwestern University,USA,74,2817192.3333333335
+927,male,Yoshinori Ohsumi,1945,Japan,2016,1,8451577,Physiology or Medicine,Tokyo Institute of Technology,Japan,71,8451577.0
+942,male,Barry C. Barish,1936,USA,2017,4,9342577,Physics,LIGO/VIRGO Collaboration,,81,2335644.25
+944,male,Jacques Dubochet,1942,Switzerland,2017,3,9342577,Chemistry,University of Lausanne,Switzerland,75,3114192.3333333335
+938,male,Jeffrey C. Hall,1945,USA,2017,3,9342577,Physiology or Medicine,University of Maine,USA,72,3114192.3333333335
+945,male,Joachim Frank,1940,Germany,2017,3,9342577,Chemistry,Columbia University,USA,77,3114192.3333333335
+947,male,Kazuo Ishiguro,1954,Japan,2017,1,9342577,Literature,,,63,9342577.0
+943,male,Kip S. Thorne,1940,USA,2017,4,9342577,Physics,LIGO/VIRGO Collaboration,,77,2335644.25
+939,male,Michael Rosbash,1944,USA,2017,3,9342577,Physiology or Medicine,Brandeis University,USA,73,3114192.3333333335
+940,male,Michael W. Young,1949,USA,2017,3,9342577,Physiology or Medicine,Rockefeller University,USA,68,3114192.3333333335
+941,male,Rainer Weiss,1932,Germany,2017,2,9342577,Physics,LIGO/VIRGO Collaboration,,85,4671288.5
+949,male,Richard H. Thaler,1945,USA,2017,1,9342577,Economic Sciences,University of Chicago,USA,72,9342577.0
+946,male,Richard Henderson,1945,Scotland,2017,3,9342577,Chemistry,MRC Laboratory of Molecular Biology,United Kingdom,72,3114192.3333333335
+960,male,Arthur Ashkin,1922,USA,2018,2,9163200,Physics,Bell Laboratories,USA,96,4581600.0
+966,male,Denis Mukwege,1955,Democratic Republic of the Congo,2018,2,9163200,Peace,,,63,4581600.0
+962,female,Donna Strickland,1959,Canada,2018,4,9163200,Physics,University of Waterloo,Canada,59,2290800.0
+963,female,Frances H. Arnold,1956,USA,2018,2,9163200,Chemistry,California Institute of Technology (Caltech),USA,62,4581600.0
+964,male,George P. Smith,1941,USA,2018,4,9163200,Chemistry,University of Missouri,USA,77,2290800.0
+961,male,Gérard Mourou,1944,France,2018,4,9163200,Physics,École Polytechnique,France,74,2290800.0
+958,male,James P. Allison,1948,USA,2018,2,9163200,Physiology or Medicine,Parker Institute for Cancer Immunotherapy,USA,70,4581600.0
+967,female,Nadia Murad,1993,Iraq,2018,2,9163200,Peace,,,25,4581600.0
+979,female,Olga Tokarczuk,1962,Poland,2018,1,9000000,Literature,,,56,9000000.0
+969,male,Paul M. Romer,1955,USA,2018,2,9163200,Economic Sciences,NYU Stern School of Business,USA,63,4581600.0
+965,male,Sir Gregory P. Winter,1951,United Kingdom,2018,4,9163200,Chemistry,MRC Laboratory of Molecular Biology,United Kingdom,67,2290800.0
+959,male,Tasuku Honjo,1942,Japan,2018,2,9163200,Physiology or Medicine,Kyoto University,Japan,76,4581600.0
+968,male,William D. Nordhaus,1941,USA,2018,2,9163200,Economic Sciences,Yale University,USA,77,4581600.0
+982,male,Abhijit Banerjee,1961,India,2019,3,9000000,Economic Sciences,Massachusetts Institute of Technology (MIT),USA,58,3000000.0
+981,male,Abiy Ahmed Ali,1976,Ethiopia,2019,1,9000000,Peace,,,43,9000000.0
+978,male,Akira Yoshino,1948,Japan,2019,3,9000000,Chemistry,Asahi Kasei Corporation,Japan,71,3000000.0
+975,male,Didier Queloz,1966,Switzerland,2019,4,9000000,Physics,University of Geneva,Switzerland,53,2250000.0
+983,female,Esther Duflo,1972,France,2019,3,9000000,Economic Sciences,Massachusetts Institute of Technology (MIT),USA,47,3000000.0
+972,male,Gregg L. Semenza,1956,USA,2019,3,9000000,Physiology or Medicine,Johns Hopkins University,USA,63,3000000.0
+973,male,James Peebles,1935,Canada,2019,2,9000000,Physics,Princeton University,USA,84,4500000.0
+976,male,John B. Goodenough,1922,Germany,2019,3,9000000,Chemistry,University of Texas,USA,97,3000000.0
+977,male,M. Stanley Whittingham,1941,United Kingdom,2019,3,9000000,Chemistry,"Binghamton University, State University of New York",USA,78,3000000.0
+984,male,Michael Kremer,1964,USA,2019,3,9000000,Economic Sciences,Harvard University,USA,55,3000000.0
+974,male,Michel Mayor,1942,Switzerland,2019,4,9000000,Physics,University of Geneva,Switzerland,77,2250000.0
+980,male,Peter Handke,1942,Austria,2019,1,9000000,Literature,,,77,9000000.0
+971,male,Sir Peter J. Ratcliffe,1954,United Kingdom,2019,3,9000000,Physiology or Medicine,University of Oxford,United Kingdom,65,3000000.0
+970,male,William G. Kaelin Jr,1957,USA,2019,3,9000000,Physiology or Medicine,Harvard Medical School,USA,62,3000000.0
+990,female,Andrea Ghez,1965,USA,2020,4,10000000,Physics,University of California,USA,55,2500000.0
+987,male,Charles M. Rice,1952,USA,2020,3,10000000,Physiology or Medicine,Rockefeller University,USA,68,3333333.3333333335
+991,female,Emmanuelle Charpentier,1968,France,2020,2,10000000,Chemistry,Max Planck Unit for the Science of Pathogens,Germany,52,5000000.0
+985,male,Harvey J. Alter,1935,USA,2020,3,10000000,Physiology or Medicine,National Institutes of Health,USA,85,3333333.3333333335
+992,female,Jennifer A. Doudna,1964,USA,2020,2,10000000,Chemistry,University of California,USA,56,5000000.0
+993,female,Louise Glück,1943,USA,2020,1,10000000,Literature,,,77,10000000.0
+986,male,Michael Houghton,1949,United Kingdom,2020,3,10000000,Physiology or Medicine,University of Alberta,Canada,71,3333333.3333333335
+995,male,Paul R. Milgrom,1948,USA,2020,2,10000000,Economic Sciences,Stanford University,USA,72,5000000.0
+989,male,Reinhard Genzel,1952,Germany,2020,4,10000000,Physics,Max Planck Institute for Extraterrestrial Physics,Germany,68,2500000.0
+996,male,Robert B. Wilson,1937,USA,2020,2,10000000,Economic Sciences,Stanford University,USA,83,5000000.0
+988,male,Roger Penrose,1931,United Kingdom,2020,2,10000000,Physics,University of Oxford,United Kingdom,89,5000000.0
